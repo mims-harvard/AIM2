@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 nav_order: 2
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Artificial Intelligence in Medicine II 
 ---
 
 # Syllabus
@@ -14,83 +14,70 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 1. TOC
 {:toc}
 
-## About BMI 702
+## A bit about the course
+You’ve likely encountered artificial intelligence (AI) before, either through your previous work in computer science, machine learning, or applications of AI in healthcare. You may have developed models, processed data, or explored how AI can transform research and medical practice. In this course, we’ll build on that foundation, but we’ll also challenge you to think differently about the role AI plays in the medical field.
 
-Artificial intelligence is poised to enable breakthroughs in science and reshape medicine. This introductory course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. It outlines foundational algorithms and emphasizes the subtleties of working with biomedical data and ways to evaluate and transition machine learning methods into biomedical and clinical implementation. An important consideration in this course is the broader impact of artificial intelligence, particularly topics of bias and fairness, interpretability, and ethical and legal considerations when dealing with artificial intelligence.
+Together, we’ll explore not just how AI models are developed, but why they matter in a real-world healthcare context. For instance, how can self-supervised learning or generative models enhance the way we analyze medical images or understand patient records? How do these techniques integrate into clinical workflows, and what are the implications of their use on patient outcomes and ethical decision-making in healthcare?
+
+We’ll also dive deeply into the process of understanding data—how it’s collected, analyzed, and used in practice. You’ll work hands-on with multimodal data, ranging from natural language to medical imaging, and will develop the skills needed to interpret these data sources effectively, keeping in mind the ethical complexities of AI in healthcare.
+
+Throughout the course, you’ll have opportunities to apply what you learn. You will collaborate on research projects, dive into the current literature, and work on practical tutorials that simulate real-world AI applications in medicine. We’ll be thinking about questions like: What makes an AI model interpretable for clinicians? How do we ensure that AI integrates smoothly into medical practice without disrupting care? And how can we be responsible stewards of AI technology in an ethically complex field like medicine?
+
+By the end of this course, you’ll have sharpened your technical skills and deepened your understanding of the challenges and possibilities AI presents in medicine. You’ll not only know how to build and evaluate AI models but also how to think critically about their application in healthcare settings. The skills you gain will be invaluable in contributing to the future of AI-driven healthcare solutions.
 
 ### Goals
 {:.no_toc}
 
-- Prepare students for advanced courses in data science, machine learning, and statistics by providing the necessary foundation and context
-- Empower students to apply computational and inferential thinking to address real-world problems
-- Understand artificial intelligence methods from a practical perspective
-- Understand best practices in implementing, evaluating, and validating ML methods on biomedical data
-- Apply ML methods to key data modalities: clinical data, biomedical networks, text, and images
-- Understand the pros and cons of different ML methods to select the right method for a given scenario
-- Recognize the problem of bias in biomedical data and ML methods in healthcare
-- Understand the concept of fairness in biomedical ML
-- Become familiar with ethical considerations for biomedical data and algorithms
+- Develop a comprehensive understanding of key advancements in AI as applied 
+to medical informatics, including natural language processing, medical image analysis, and the use of relational and longitudinal data.
+- Apply cutting-edge AI methodologies to real-world medical challenges, 
+  gaining hands-on experience in the development, implementation, and evaluation of AI models.
+- Synthesize diverse AI techniques, learning how to integrate multiple data 
+  types—such as text, images, and clinical records—into cohesive solutions for healthcare applications.
+- Reflect on the role of AI in clinical practice, understanding the impact of 
+  AI technologies on both healthcare professionals and patients, while exploring your own potential contributions to the field.
+- Cultivate an appreciation for the ethical, legal, and social dimensions of 
+  AI in healthcare, focusing on building trustworthy AI models that prioritize fairness, interpretability, and patient outcomes.
+- Develop the ability to critically evaluate and adapt AI methods over time, 
+  gaining skills in model monitoring, addressing real-world data challenges, and continuing your learning journey in AI and health informatics beyond the course.
 
-### Syllabus
-{:.no_toc}
+## Graded Components and Evaluation
 
-The overall structure is as follows. The course comprises 14 weeks. We provide a course overview and introduction to biomedical AI in the first week. The remaining 12 weeks are divided into six modules. The first week in each module is foundational and introduces key machine learning concepts in the area, and the following week covers advanced topics and frontiers of the same area. The final week of the course introduces students to ethical and legal considerations for biomedical AI.
+Your final grade in this course will be based on a combination of projects, assessments, and participation in practical tutorials. Each component is aligned with the course objectives to ensure a comprehensive understanding of AI in healthcare. Here’s the proposed breakdown:
+
+| Component                                                      | Percentage | Description                                                                                                                                              | 
+|----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Proposal                                               | 5%         | A 2-page proposal outlining your project’s research question, methodology, dataset, and contingency plans, evaluated for clarity and feasibility.        |
+| Peer-Reviewed Feedback on Proposal                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        |
+| Midterm Project Presentation                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback.             |
+| Final Project Report                                           | 50%        | A comprehensive, NeurIPS-style report detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights. |            |                                                                                                                                                           |
+| Final Project Presentation                                     | 15%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. |
+| Practical Tutorials                                            | 10%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               |
+| Weekly Reading Assessments                                     | 5%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension.                                             |
 
 
-## Assigments and Grading
-
-* There are three problem sets in the course. Assignments are released on Fridays at 9:00am EST and are due at 11:59pm EST on Friday (14 days after they are released). Submissions must be made through Canvas. 
-* Pre-class quizzes open at 9:00am EST on Friday and are due at 2:00pm EST on Thursday (pre-class quizzes close before lectures on Thursday). Quizzes must be completed in Canvas. 
-
-*Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, contact the course instructor. We will work with you to make up any missed assignments.* 
-
-Delayed beyond 24 hours of deadline: no credit 
-
-Questions/issues: please contact the course instructor. 
-
-### Grade Components
-{:.no_toc}
-
-| Component  | Percent of grade (%)                         |
-|-------------------------- |---------------------------------------------  |
-| Problem Set 1                      | 20      |
-| Problem Set 2                     | 20                            |
-| Problem Set 3                      | 20               |
-| Class Participation (Quick Checks)                      | 14 (1 point for Lecture 1-14)                           |
-| Pre-Class Quizzes                      | 26 (2 points per quiz; there is no quiz for Lecture 1)                              |
-
-### Problem Sets
-{:.no_toc}
-
-Problem sets are two-week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. The primary form of support students will have for problem sets are the **office hours** we’ll host, and **Canvas Discussions**. Problems sets must be completed individually.
-
-### Pre-Class Quizzes
-{:.no_toc} 
-
-Pre-class quizzes are weekly assignments that are graded. That is, your score on them does matter and you must complete them individually. 
-
-### Class Participation (Quick Checks)
-{:.no_toc}
-
-Quick checks are short conceptual questions embedded into each lecture, in the form of Google Forms. **Quick checks count towards class participation grade.** They are meant for you to check your understanding of the concepts that were just introduced. That is, your score on them does not matter, you just need to do them.
 
 ## Course Culture
 
-Students taking BMI 702 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, TAs and students—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
-
-### Be Aware of Your Actions
+### Academic Integrity
 {:.no_toc}
 
-Sometimes, the little things add up to creating an unwelcoming culture to some students. Bear in mind that diversity has many facets, some of which are not visible. Your classmates may have medical conditions (physical or mental), personal situations (financial, family, etc.), or interests that aren’t common to most students in the course. Another aspect of professionalism is avoiding comments that (likely unintentionally) put down colleagues for situations they cannot control. Bragging in open space that an assignment is easy or “crazy,” for example, can send subtle cues that discourage classmates who are dealing with issues that you can’t see. Please take care, so we can create a class in which all students feel supported and respected.
+In this course, honesty in your work is essential. Academic integrity means that everything you submit reflects your own effort and understanding, unless otherwise specified. What does this look like? Generally, it’s about distinguishing your ideas from those of others, whether they come from books, discussions, or generative AI tools. Collaboration is welcomed, but assignments should reflect shared input rather than completed work passed along. Sharing finished assignments is almost always against our collaborative guidelines unless explicitly permitted. If you’re ever unclear about these policies, please reach out. There’s no penalty for honest questions, and I’m here to help clarify.
 
-Beyond the slips that many of us make unintentionally are a host of behaviors that the course staff, department, and university do not tolerate. These are generally classified under the term harassment; sexual harassment is a specific form that is governed by federal laws known as Title IX.
-
-### Be Respectful
+### Community Standards
 {:.no_toc}
 
-Professionalism and respect for diversity are not just matters between students; they also apply to how the course staff treat the students. The staff of this course will treat you in a way that respects our differences. However, despite our best efforts, we might slip up, hopefully inadvertently. If you are concerned about classroom environment issues created by the staff or overall class dynamic, please feel free to talk to us about it. The instructor particular welcomes any comments or concerns regarding conduct of the course and the staff.
+Our course is a space where all experiences and perspectives are valued, and it’s our shared responsibility to keep it inclusive and respectful. Each of us—students and instructors—has unique backgrounds that shape how we learn and interact. It’s important to be mindful of biases, including our own, and to stay open to each other’s ideas. If you ever feel that bias or a lack of inclusivity is affecting your learning, please connect with me. You can also reach out to support resources like the Ombuds Office or Harvard’s Anonymous Reporting Hotline. We’re committed to making this classroom a respectful and welcoming environment for everyone.
 
-We are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds. If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with us. We want to be resources for you.
+### Reasonable Accommodations
+{:.no_toc}
+
+Our goal is to make this course accessible for all students. If you have a documented need for accommodations, please connect with the Disability Access Office or HMS Director of Disability Services early on—preferably at least two weeks before accommodations are needed. This process respects your privacy, and information about accommodations is shared only as needed. Please feel free to discuss your needs with me as well. I’m here to support you in any way I can, and together we’ll ensure you have what you need to succeed.
+
+### Academic and Other Support Services
+{:.no_toc}
+
+Your well-being matters here, and we recognize that graduate school can be demanding in many ways. If you’re struggling—academically, personally, or in any other way—there are resources to help. The GSAS Student Services Office, the Academic Resource Center, and Counseling and Mental Health Services (CAMHS) offer free support for academic challenges, stress management, and mental health needs. You don’t have to navigate these challenges alone. Reaching out for help is encouraged, and support is always available.
 
 ## Attendance
 
