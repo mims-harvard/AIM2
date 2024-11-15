@@ -8,6 +8,8 @@ description: BMIF 203 - Artificial Intelligence in Medicine II
 # Syllabus
 {:.no_toc}
 
+The previous iteration of this course can be found at [BMI 203](https://zitniklab.hms.harvard.edu/BMI702/).
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -55,142 +57,68 @@ Your final grade in this course will be based on a combination of projects, asse
 | Practical Tutorials                                            | 10%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               |
 | Weekly Reading Assessments                                     | 5%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension.                                             |
 
-
-
 ## Course Culture
+
+Our course is a space where all experiences, backgrounds, and perspectives are valued. We’re committed to fostering an inclusive, respectful, and supportive environment that encourages curiosity rather than competition. This responsibility lies with both the course staff and students, who are expected to treat each other with courtesy and respect.
+
+### Community Standards
+{:.no_toc}
+
+In a diverse classroom, it’s important to be mindful of how our actions and words affect others. Remember, diversity has many facets, some of which may not be visible—your classmates may be managing personal, medical, or family challenges that aren’t immediately apparent. Let’s be sensitive to this diversity and avoid comments that may unintentionally discourage others, such as remarks about assignments being "easy" or "crazy." Professionalism is about supporting each other, recognizing that everyone brings unique experiences to the learning environment.
+
+### Respect and Professionalism
+{:.no_toc}
+
+Respect and inclusivity apply to interactions between students and course staff as well. Our team is dedicated to treating you with respect, recognizing the diversity of perspectives that enrich our classroom. However, if you ever feel that classroom dynamics or actions by the staff impact your learning environment, please feel free to share your concerns. We welcome your feedback and aim to create a positive and supportive atmosphere for all.
+
+### Title IX and Harassment
+{:.no_toc}
+
+Beyond unintentional slips, certain behaviors are not tolerated in this course. Harassment, including but not limited to sexual harassment, is prohibited under Title IX federal laws and university policy. If you experience or observe any form of harassment, please reach out to course staff, Title IX coordinators, or university resources as needed. We’re committed to ensuring a safe and respectful learning environment for all students.
+
+## Attendace, Auditing, and Office Hours
+
+Attendance is essential for making the most of this class. Students should plan to attend all sessions unless they have prior permission from the instructor. Missing classes without notice can impact your overall experience and understanding of the course material. This year, our course will meet in person, with live event details available in the Weekly Schedule and key updates on the Home Page.
+
+Auditing is permitted with instructor approval, but it’s important that auditors not increase the workload for instructors or TAs or limit resources for enrolled students. Auditors who would like to participate more actively, such as engaging in class discussions or accessing course resources, should consider enrolling as a “special student” for per-credit access.
+
+Office hours are an open invitation to discuss course material and ask questions. Both virtual and in-person office hours are listed on the Weekly Schedule, with the instructor’s hours included. In-person hours will be held in designated locations.
+
+If you feel a grade does not reflect the criteria fairly, you’re welcome to submit a regrade request. We review regrades in cases of grading errors or rubric misapplication. Requests will not be accepted for incorrect or outdated files unless staff were notified before the deadline.
+
+## Course Policies 
 
 ### Academic Integrity
 {:.no_toc}
 
-In this course, honesty in your work is essential. Academic integrity means that everything you submit reflects your own effort and understanding, unless otherwise specified. What does this look like? Generally, it’s about distinguishing your ideas from those of others, whether they come from books, discussions, or generative AI tools. Collaboration is welcomed, but assignments should reflect shared input rather than completed work passed along. Sharing finished assignments is almost always against our collaborative guidelines unless explicitly permitted. If you’re ever unclear about these policies, please reach out. There’s no penalty for honest questions, and I’m here to help clarify.
+Honesty in your work is essential in this course. Academic integrity means that everything you submit should reflect your own understanding, unless otherwise specified. This includes distinguishing your original ideas from those of others, whether from readings, discussions, or AI tools. While collaboration is welcomed, your submissions should reflect your individual perspective rather than direct copies of others’ work. Sharing completed work, unless explicitly allowed, goes against our guidelines. If you’re ever uncertain about these policies, please reach out—there’s no penalty for asking, and I’m here to help clarify.
+
+### Use of Large Language Models (LLMs) and Generative AI
+{:.no_toc}
+
+Students may use LLMs or generative AI tools responsibly for ideation or assistance with complex concepts, provided their use is fully acknowledged. Your submissions should indicate how and to what extent these tools assisted you. Remember, you are responsible for the accuracy and originality of your work; using AI to shortcut the learning process or fabricate data is prohibited. AI should be a support tool, not a replacement for your analysis and critical thinking.
+
+### Collaboration and Academic Dishonesty
+{:.no_toc}
+
+Collaboration in this course means working together to understand concepts—not sharing completed work or solutions. You are encouraged to discuss ideas and challenges with classmates, but submitted work should be yours alone. Sharing solutions, copying code directly from other sources, or submitting work that does not reflect your understanding violates our standards. Always clearly cite sources and distinguish your contributions from those of others. If you’re unsure about what constitutes acceptable collaboration, please ask.
 
 ### Community Standards
 {:.no_toc}
 
-Our course is a space where all experiences and perspectives are valued, and it’s our shared responsibility to keep it inclusive and respectful. Each of us—students and instructors—has unique backgrounds that shape how we learn and interact. It’s important to be mindful of biases, including our own, and to stay open to each other’s ideas. If you ever feel that bias or a lack of inclusivity is affecting your learning, please connect with me. You can also reach out to support resources like the Ombuds Office or Harvard’s Anonymous Reporting Hotline. We’re committed to making this classroom a respectful and welcoming environment for everyone.
+Our classroom is a place where diverse perspectives are valued. Maintaining an inclusive, respectful, and open environment is a shared responsibility of both students and instructors. We each bring unique experiences and backgrounds that shape our understanding. Please be mindful of how your actions, words, and even seemingly small comments can impact others. If you ever feel that bias or a lack of inclusivity is affecting your experience, please connect with me. Additional resources such as the Office for Gender Equity and the Ombuds Office are also available to provide support. Harvard Medical School is committed to an inclusive learning environment, and we encourage you to reach out if you encounter barriers.
 
 ### Reasonable Accommodations
 {:.no_toc}
 
-Our goal is to make this course accessible for all students. If you have a documented need for accommodations, please connect with the Disability Access Office or HMS Director of Disability Services early on—preferably at least two weeks before accommodations are needed. This process respects your privacy, and information about accommodations is shared only as needed. Please feel free to discuss your needs with me as well. I’m here to support you in any way I can, and together we’ll ensure you have what you need to succeed.
-
-### Academic and Other Support Services
-{:.no_toc}
-
-Your well-being matters here, and we recognize that graduate school can be demanding in many ways. If you’re struggling—academically, personally, or in any other way—there are resources to help. The GSAS Student Services Office, the Academic Resource Center, and Counseling and Mental Health Services (CAMHS) offer free support for academic challenges, stress management, and mental health needs. You don’t have to navigate these challenges alone. Reaching out for help is encouraged, and support is always available.
-
-## Attendance
-
-Students must attend all classes unless they have explicit permission from 
-the course instructor. An unexcused absence can affect the participation 
-grade. This Spring, BMIF-203 will be run in a in-person format.
-
-- To see when any live events are scheduled, check the [Weekly Schedule](../schedule).
-- To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
-
-### Auditing
-{:.no_toc}
-
-Auditing BMIF-203 is only permitted with explicit permission by the course 
-faculty. Auditors must not increase the workload for instructors and TAs, or compete with enrolled students for other resources provided for students who are paying tuition, such as space in online classrooms or time during office hours.
-
-If you are planning to audit the course but want to get more involved, i.e. submit homework assignments, use office hours, etc., you are encouraged to register as a “special student”, which provides access to this course at a per credit cost.
-
-### Office Hours
-{:.no_toc}
-
-- The office hours are listed on the [Weekly Schedule](../schedule), and will be held both virtually and in-person.
-- Students can come to office hours for any questions on course assignments or material.
-- In-person office hours will be held in various locations specified in the [Weekly Schedule](../schedule). 
-- The instructor will also be hosting office hours. These will be reflected on the [Weekly Schedule](../schedule).
-
-### Regrade Requests
-{:.no_toc}
-
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. 
-
-Regrade requests will **not** be considered in cases in which:
-
-- a student submits incorrect files and the student does not notify the course staff _before the assignment deadline_
-- a student fails to save their notebook before exporting and uploads an old version to the online system
-- a situation arises in which the course staff cannot ensure that the student's work was done before the assignment deadline
-
-## Policies
-
-### We Want You to Succeed!
-{:.no_toc}
-
-You are more than welcome to visit our office hours and talk with us. We know graduate school can be stressful and we want to help you succeed.
+Harvard Medical School is dedicated to supporting students with documented disabilities. If you need accommodations, please connect with the Disability Access Office or HMS Director of Disability Services, ideally at least two weeks before accommodations are needed. This process ensures privacy, with only relevant parties informed. Feel free to discuss your needs with me directly as well, and we’ll work together to ensure you have the support necessary to succeed.
 
 ### Late Policy
 {:.no_toc}
 
-Extensions are only provided in the case of exceptional circumstances. For that, email the course instructor to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+Extensions are only granted in exceptional cases. If you need additional time, please contact me as early as possible to request an extension. Requests close to the deadline may not receive a response in time. Simply submitting a request does not guarantee an extension. If you’re unable to complete your work fully, it’s better to submit what you have by the deadline to receive credit for your efforts.
 
-### Assignments
+### Regrade Requests
 {:.no_toc}
 
-Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually in your own words. If we suspect that you have submitted plagiarized work, we will call you in for a meeting. If we then determine that plagiarism has occurred, we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, along with reporting your offense to the Center of Student Conduct.
-
-Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. 
-
-### Using Large Language Models (LLMs) and Generative AI
-{:.no_toc}
-
-The following policy outlines the guidelines for the use of generative AI and LLMs in student assignments.
-
-* Responsibility for content: Students who use LLMs and generative AI tools in their assignments must take full responsibility for the content they submit. This includes ensuring the accuracy, relevance, and originality of the information provided by these tools.
-
-* Acknowledgment of AI use: Students must clearly acknowledge any use of LLMs or generative AI in their assignments. This acknowledgment should specify the nature and extent of the assistance received from these tools. LLMs and generative AI can be used to enhance the educational experience, and help with ideation and understanding of complex concepts. However, students must perform the critical thinking, analysis, and synthesis of information.
-
-* Ethical use and originality: Students must use these tools ethically, following the principles of academic honesty. The use of AI to plagiarize, misrepresent original work, or fabricate data is strictly prohibited. Students are encouraged to use these tools to inspire and inform their work, not to undermine the learning process.
-
-* Instructor discretion: Instructors may specify assignments where LLMs and generative AI use is particularly encouraged or prohibited, depending on the assignment's learning objectives.
-
-This policy helps students get ready for a future with AI in jobs and makes 
-sure their education focuses on honesty and learning. [Students are encouraged to read this NEJM AI editorial on why we support the use of LLMs and generative AI in BMIF 203.](https://ai.nejm.org/doi/full/10.1056/AIe2300128) 
-
-### Collaboration Policy and Academic Dishonesty
-{:.no_toc}
-
-All work in this course is governed by [Harvard Medical School’s academic integrity policies](https://issuu.com/hmsgraduateeducation/docs/handbook_updates_all_22-23_gc?fr=sYjRlNzYxOTI5MDQ). It is the students’ responsibility to be aware of these policies and to ensure that their work adheres to them both in detail and in spirit. Unless otherwise specified by the instructor, the assumption is that all work submitted must reflect the student’s own effort and understanding. Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from conversations with other people. When working with others you must do so in the spirit of collaboration, not via a unidirectional transfer of information. Note that sharing or sending completed assignments to others will nearly always violate this collaborative standard. If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification. 
-
-Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from collaboration with other people. Specifically, this means that:
-
-- Students must properly cite all submitted work appropriately.
-- Unless noted otherwise, students are expected to complete assignments, quizzes, and projects individually, not as teams. Discussion about course content and materials is acceptable, but sharing solutions is not acceptable.
-- Even though students are encouraged to consult websites for solutions to coding problems, they may never just copy code.
-
-If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification.
-
-### Community Standards
-{:.no_toc}
-
-Harvard Medical School is committed to supporting inclusive learning environments that value and affirm the diverse ideas and unique life experiences of all people. An equitable, inclusive classroom is a shared responsibility of both instructors and students, and both are encouraged to consider how their own experiences and biases may influence the learning environment. This requires an open mind and respect for differences of all kinds. 
-
-Students are encouraged to contact the course director if they are experiencing bias or feel that their learning experience – including a course’s content, manner of instruction, or learning environment – is not inclusive. Program administrators and directors, the Office for Gender Equity, and the [Ombuds Office](https://hms.harvard.edu/departments/ombuds-office) are also available to discuss your experiences and provide support. Additionally, students can utilize [Harvard’s Anonymous Reporting Hotline](https://reportinghotline.harvard.edu/) to report issues related to bias. 
-
-### Academic and Other Support Services
-{:.no_toc}
-
-We value your well-being and recognize that as a graduate student you are asked to balance a variety of responsibilities and potential stressors: in class, in lab, and in life. If you are struggling with experiences either in- or outside of class, there are resources available to help. In addition to program leadership, master’s students can contact Kimberly_Lincoln@hms.harvard.edu, HMS Director of Administration and Student Affairs for Master’s Programs and Johanna_Gutlerner@hms.harvard.edu, Senior Associate Dean for Graduate Education, for support.
-
-### Wellbeing and Mental Health Services
-{:.no_toc}
-
-Counseling and Mental Health Services (CAMHS) is a counseling and mental health support service that seeks to work collaboratively with students and the University to support individuals experiencing some measure of distress in their lives. It provides coverage to students year-round and is included in the student health fee, regardless of insurance, at no additional cost. More information is available on the [CAMHS website](https://camhs.huhs.harvard.edu/) or by calling the main office at 617-495-2042. Urgent care can be reached 24/7 at 617-495-5711.
-
-[CAMHS Care Line:](https://camhs.huhs.harvard.edu/camhs-cares) The CAMHS Cares line 617-495-2042 is a 24/7 support line available to Harvard students who have mental health concerns, whether you are in immediate distress or not, on-campus or elsewhere. This the Line can also be used as resource for Harvard personnel who needs advice about a student who may be experiencing a mental health crisis. At all times, including evenings, weekends, and holidays, you can follow the prompts to speak directly with a CAMHS Cares Counselor about an urgent concern or if you just need to talk to someone about a difficult challenge.
-
-[TimelyCare](https://camhs.huhs.harvard.edu/timelycare), a virtual mental health and wellbeing platform for all Harvard students covered by the Student Health Fee, offers free virtual mental health care including scheduled counseling, psychiatry, and self-care content to support wellbeing and mental health any time. Scheduled therapy appointments are readily available.
-
-### Reasonable Accommodations
-{:.no_toc}
-
-As an institution that values diversity and inclusion, our goal is to create learning environments that are usable, equitable, inclusive and welcoming. Harvard University complies with federal legislation for individuals with disabilities and offers reasonable accommodations to qualified students with documented disabilities and temporary impairments. To make a request for reasonable accommodations in a course, students must first connect with their local disability office. The HMS Director of Disability Services, Timothy Rogers (timothy_rogers@hms.harvard.edu), is the point of contact for accommodation information for HMS master’s and MD students.
-
-Accommodations are determined through an interactive process and are not retroactive. Therefore, students should contact their local disability office as soon as possible, preferably at least two weeks before accommodations are needed in a course, or immediately following an injury or illness, in order to initiate the accommodation process. Students are strongly encouraged to discuss their access needs with their instructors; however, instructors cannot independently institute individual accommodations without prior approval from the disability office. Student privacy surrounding disability status is recognized under FERPA. Information about accommodations is shared on a need-to-know basis, and with only those individuals involved in instituting the accommodation.  
-
-
-
-
+Regrade requests are available if there’s a concern that the grading rubric was applied incorrectly or if an error was made in the grading process. Requests will not be accepted if incorrect files were submitted without notifying staff before the deadline or if an outdated file was uploaded by mistake. Please be proactive in checking submissions to avoid these situations.
