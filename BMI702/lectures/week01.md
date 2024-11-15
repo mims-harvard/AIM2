@@ -2,7 +2,7 @@
 layout: page
 title: Week 1 - Intro
 nav_order: 3
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 1 - What Makes Biomedical Problems Unique

@@ -3,7 +3,7 @@ layout: page
 title: Biomedical Imaging Part I
 nav_order: 1
 parent: M5 - Biomedical Imaging
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 10 - Biomedical Imaging Part I

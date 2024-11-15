@@ -3,7 +3,7 @@ layout: page
 title: Biomedical Graph Learning Part I
 nav_order: 1
 parent: M3 - Graph Learning
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 6 - Biomedical Graph Learning Part I

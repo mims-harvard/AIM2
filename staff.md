@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: BMI 702 - Biomedical AI course staff
+description: BMIF 203 - Aritificial Inteligence in Medicine II course staff
 nav_order: 11
 ---
 

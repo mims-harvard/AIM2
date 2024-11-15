@@ -81,7 +81,9 @@ Your well-being matters here, and we recognize that graduate school can be deman
 
 ## Attendance
 
-Students must attend all classes unless they have explicit permission from the course instructor. An unexcused absence can affect the participation grade. This Spring, BMI 702 will be run in a in-person format.
+Students must attend all classes unless they have explicit permission from 
+the course instructor. An unexcused absence can affect the participation 
+grade. This Spring, BMIF-203 will be run in a in-person format.
 
 - To see when any live events are scheduled, check the [Weekly Schedule](../schedule).
 - To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
@@ -89,7 +91,8 @@ Students must attend all classes unless they have explicit permission from the c
 ### Auditing
 {:.no_toc}
 
-Auditing BMI 702 is only permitted with explicit permission by the course faculty. Auditors must not increase the workload for instructors and TAs, or compete with enrolled students for other resources provided for students who are paying tuition, such as space in online classrooms or time during office hours.
+Auditing BMIF-203 is only permitted with explicit permission by the course 
+faculty. Auditors must not increase the workload for instructors and TAs, or compete with enrolled students for other resources provided for students who are paying tuition, such as space in online classrooms or time during office hours.
 
 If you are planning to audit the course but want to get more involved, i.e. submit homework assignments, use office hours, etc., you are encouraged to register as a “special student”, which provides access to this course at a per credit cost.
 
@@ -144,7 +147,8 @@ The following policy outlines the guidelines for the use of generative AI and LL
 
 * Instructor discretion: Instructors may specify assignments where LLMs and generative AI use is particularly encouraged or prohibited, depending on the assignment's learning objectives.
 
-This policy helps students get ready for a future with AI in jobs and makes sure their education focuses on honesty and learning. [Students are encouraged to read this NEJM AI editorial on why we support the use of LLMs and generative AI in BMI 702.](https://ai.nejm.org/doi/full/10.1056/AIe2300128) 
+This policy helps students get ready for a future with AI in jobs and makes 
+sure their education focuses on honesty and learning. [Students are encouraged to read this NEJM AI editorial on why we support the use of LLMs and generative AI in BMIF 203.](https://ai.nejm.org/doi/full/10.1056/AIe2300128) 
 
 ### Collaboration Policy and Academic Dishonesty
 {:.no_toc}

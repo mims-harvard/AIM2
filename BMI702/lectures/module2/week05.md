@@ -3,7 +3,7 @@ layout: page
 title: Trustworthy & Efficient AI Part II
 parent: M2 - Trustworthy & Efficient AI
 nav_order: 2
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 5 - Trustworthy & Efficient AI Part II

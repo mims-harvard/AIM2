@@ -3,7 +3,7 @@ layout: page
 title: Generative AI Part I
 nav_order: 1
 parent: M6 - Generative AI
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 13 - Generative AI Part I

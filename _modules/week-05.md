@@ -5,8 +5,8 @@ title: Week 5
 Fairness, bias, distribution shifts, and robustness
 
 Feb 22
-: **Module 2**{: .label .label-blue }**Lecture**{: .label .label-purple }[Trustworthy & Efficient AI Part II](/BMI702/lectures/module2/week05)
-  : [Slides](/BMI702/assets/zitnik-BMI702-L5.pdf), [Reading List](/BMI702/lectures/module2/week05)
+: **Module 2**{: .label .label-blue }**Lecture**{: .label .label-purple }[Trustworthy & Efficient AI Part II](/BMIF203/lectures/module2/week05)
+  : [Slides](/BMIF203/assets/zitnik-BMI702-L5.pdf), [Reading List](/BMIF203/lectures/module2/week05)
 
 Feb 23
 : **Quiz**{: .label .label-green }[Week 6 pre-class quiz](#) (due Feb 29)

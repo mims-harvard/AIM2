@@ -2,7 +2,7 @@
 layout: page
 title: Calendar
 nav_order: 2.5
-description: BMI 702 - Biomedical AI course modules and topics
+description: BMIF 203 - Aritificial Inteligence in Medicine II course modules and topics
 ---
 
 # Calendar

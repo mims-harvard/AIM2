@@ -2,11 +2,11 @@
 layout: page
 title: Home
 nav_order: 1
-description: BMI 702 - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 
 ---
 
-# [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702) | Biomedical Artificial Intelligence
+# [BMIF 203](https://dbmi.hms.harvard.edu/education/courses/bmif-203) | Aritificial Inteligence in Medicine II
 
 {: .mb-2 }
 Harvard - Foundations of Biomedical Informatics II, Spring 2024

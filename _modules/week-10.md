@@ -6,7 +6,7 @@ Vision and vision-language pre-training, towards generic vision interface, multi
 
 Apr 4
 : **Module 5**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical imaging Part I](/BMI702/lectures/module5/week10)
-  : [Slides](/BMI702/assets/zitnik-BMI702-L10.pdf), [Reading List](/BMI702/lectures/module5/week10)
+  : [Slides](/BMIF203/assets/zitnik-BMI702-L10.pdf), [Reading List](/BMIF203/lectures/module5/week10)
 
 Apr 5
 : **Quiz**{: .label .label-green }[Week 11 pre-class quiz](#) (due Apr 11)

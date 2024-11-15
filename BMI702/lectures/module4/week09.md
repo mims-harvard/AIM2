@@ -3,7 +3,7 @@ layout: page
 title: Medical Language Modeling Part II
 nav_order: 2
 parent: M4 - Language Modeling
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 9 - Medical Language Modeling Part II

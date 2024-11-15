@@ -3,7 +3,7 @@ layout: page
 title: Clinical AI Part II
 parent: M1 - Clinical AI
 nav_order: 2
-description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
+description: BMIF 203 - Aritificial Inteligence in Medicine II
 ---
 
 # Week 3 - Clinical AI Part II

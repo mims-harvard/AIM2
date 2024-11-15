@@ -2,7 +2,8 @@
 layout: page
 title: Announcements
 nav_exclude: true
-description: BMI 702 - Biomedical AI class announcements
+description: BMIF 203 - Aritificial Inteligence in Medicine II class 
+  announcements
 ---
 
 # Announcements

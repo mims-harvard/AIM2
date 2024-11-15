@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 nav_order: 13
-description: BMI 702 - Biomedical AI weekly course schedule
+description: BMIF 203 - Aritificial Inteligence in Medicine II weekly course schedule
 ---
 
 # Weekly Schedule
