@@ -13,5 +13,4 @@ vendor/
 requirements.txt
 *.py
 pandoc-3.5-windows-x86_64.msi
-requirements.txt
-word_to_md.py
+
