@@ -1,16 +1,23 @@
 ---
 layout: page
 title: Staff
-description: BMIF 203 - Aritificial Inteligence in Medicine II course staff
+description: Aritificial Inteligence in Medicine II course staff
 nav_order: 11
 ---
 
 # Staff
 
-## Instructor
+## Faculty Instructor
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Faculty Instructor' %}
 {% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+## Curriculum Fellow
+
+{% assign cur_fellows = site.staffers | where: 'role', 'Curriculum Fellow' %}
+{% for staffer in cur_fellows %}
 {{ staffer }}
 {% endfor %}
 

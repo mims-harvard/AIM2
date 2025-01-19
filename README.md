@@ -1,4 +1,4 @@
-# BMIF203: Artificial Intelligence in Medicine II (Spring 2024) 
+# Artificial Intelligence in Medicine II (BMIF 203 and BMI 702, Spring 2025) 
 
 This repository contains the source code for the course website.
 

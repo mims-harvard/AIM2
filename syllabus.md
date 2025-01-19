@@ -2,13 +2,11 @@
 layout: page
 title: Syllabus
 nav_order: 2
-description: BMIF 203 - Artificial Intelligence in Medicine II 
+description: Artificial Intelligence in Medicine II 
 ---
 
 # Syllabus
 {:.no_toc}
-
-The previous iteration of this course can be found at [BMI 203](https://zitniklab.hms.harvard.edu/BMI702/).
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,7 +14,7 @@ The previous iteration of this course can be found at [BMI 203](https://zitnikla
 1. TOC
 {:toc}
 
-## A bit about the course
+## About the Course
 You’ve likely encountered artificial intelligence (AI) before, either through your previous work in computer science, machine learning, or applications of AI in healthcare. You may have developed models, processed data, or explored how AI can transform research and medical practice. In this course, we’ll build on that foundation, but we’ll also challenge you to think differently about the role AI plays in the medical field.
 
 Together, we’ll explore not just how AI models are developed, but why they matter in a real-world healthcare context. For instance, how can self-supervised learning or generative models enhance the way we analyze medical images or understand patient records? How do these techniques integrate into clinical workflows, and what are the implications of their use on patient outcomes and ethical decision-making in healthcare?
@@ -45,80 +43,151 @@ to medical informatics, including natural language processing, medical image ana
 
 ## Graded Components and Evaluation
 
-Your final grade in this course will be based on a combination of projects, assessments, and participation in practical tutorials. Each component is aligned with the course objectives to ensure a comprehensive understanding of AI in healthcare. Here’s the proposed breakdown:
+Your final grade in this course will be based on a combination of semester-long [course project](../course_project), weekly assessments, and participation in [focused tutorials](../focused_tutorials).
 
-| Component                                                      | Percentage | Description                                                                                                                                              | 
-|----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Project Proposal                                               | 5%         | A 2-page proposal outlining your project’s research question, methodology, dataset, and contingency plans, evaluated for clarity and feasibility.        |
-| Peer-Reviewed Feedback on Proposal                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        |
-| Midterm Project Presentation                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback.             |
-| Final Project Report                                           | 50%        | A comprehensive, NeurIPS-style report detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights. |            |                                                                                                                                                           |
-| Final Project Presentation                                     | 15%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. |
-| Practical Tutorials                                            | 10%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               |
-| Weekly Reading Assessments                                     | 5%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension.                                             |
+* All submissions related to course project (project proposal, midterm presentation materials, final report, final presentation materials) must be made through Canvas. 
 
-## Course Culture
+* Weekly reading assessments are pre-class quizzes that open at 9:00am EST on Wednesday and are due at 2:00pm EST on Tueasday (pre-class quizzes close before lectures on Tuesday). Quizzes must be completed in Canvas.
 
-Our course is a space where all experiences, backgrounds, and perspectives are valued. We’re committed to fostering an inclusive, respectful, and supportive environment that encourages curiosity rather than competition. This responsibility lies with both the course staff and students, who are expected to treat each other with courtesy and respect.
+* Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, contact the course instructor. We will work with you to make up any missed assignments. 
 
-### Community Standards
+* Questions/issues: Please contact the course instructor. 
+
+| Component                                                      | Percentage | Description                                                                                                                                               
+|----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Project Proposal                                               | 5%         | A 2-page proposal outlining your project’s research question, methodology, dataset, and contingency plans, evaluated for clarity and feasibility. A third page is allowed for figures and tables. Unlimited space for references.        
+| Peer-Reviewed Feedback on Proposal                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        
+| Midterm Project Presentation                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback. Presentation file submitted through Canvas.             
+| Final Project Report                                           | 50%        | A comprehensive, [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights.                                                                                                                                                                        |
+| Final Project Presentation                                     | 12%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
+| Focused Tutorials                                            | 5%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               
+| Weekly Reading Assessments                                     | 13%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
+
+## Attendance
+
+- Students must attend all classes unless they have explicit permission from the course instructor. An unexcused absence can affect the participation grade. The course will be run in a in-person format.
+- Students are highly encouraged to attend focused tutorials. We will offer a number of tutorials throughout the semester and expect that the student will attend at least five of them in-person. 
+- To see when lectures and office hours are scheduled, check the [Weekly Schedule](../schedule).
+- To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
+
+### Auditing
 {:.no_toc}
 
-In a diverse classroom, it’s important to be mindful of how our actions and words affect others. Remember, diversity has many facets, some of which may not be visible—your classmates may be managing personal, medical, or family challenges that aren’t immediately apparent. Let’s be sensitive to this diversity and avoid comments that may unintentionally discourage others, such as remarks about assignments being "easy" or "crazy." Professionalism is about supporting each other, recognizing that everyone brings unique experiences to the learning environment.
+Auditing the course is only permitted with explicit permission by the course faculty. Auditors must not increase the workload for instructors and TAs, or compete with enrolled students for other resources provided for students who are paying tuition, such as space in online classrooms or time during office hours.
 
-### Respect and Professionalism
+If you are planning to audit the course but want to get more involved, i.e. submit homework assignments, use office hours, etc., you are encouraged to register as a “special student”, which provides access to this course at a per credit cost.
+
+### Office Hours
 {:.no_toc}
 
-Respect and inclusivity apply to interactions between students and course staff as well. Our team is dedicated to treating you with respect, recognizing the diversity of perspectives that enrich our classroom. However, if you ever feel that classroom dynamics or actions by the staff impact your learning environment, please feel free to share your concerns. We welcome your feedback and aim to create a positive and supportive atmosphere for all.
-
-### Title IX and Harassment
-{:.no_toc}
-
-Beyond unintentional slips, certain behaviors are not tolerated in this course. Harassment, including but not limited to sexual harassment, is prohibited under Title IX federal laws and university policy. If you experience or observe any form of harassment, please reach out to course staff, Title IX coordinators, or university resources as needed. We’re committed to ensuring a safe and respectful learning environment for all students.
-
-## Attendace, Auditing, and Office Hours
-
-Attendance is essential for making the most of this class. Students should plan to attend all sessions unless they have prior permission from the instructor. Missing classes without notice can impact your overall experience and understanding of the course material. This year, our course will meet in person, with live event details available in the Weekly Schedule and key updates on the Home Page.
-
-Auditing is permitted with instructor approval, but it’s important that auditors not increase the workload for instructors or TAs or limit resources for enrolled students. Auditors who would like to participate more actively, such as engaging in class discussions or accessing course resources, should consider enrolling as a “special student” for per-credit access.
-
-Office hours are an open invitation to discuss course material and ask questions. Both virtual and in-person office hours are listed on the Weekly Schedule, with the instructor’s hours included. In-person hours will be held in designated locations.
-
-If you feel a grade does not reflect the criteria fairly, you’re welcome to submit a regrade request. We review regrades in cases of grading errors or rubric misapplication. Requests will not be accepted for incorrect or outdated files unless staff were notified before the deadline.
-
-## Course Policies 
-
-### Academic Integrity
-{:.no_toc}
-
-Honesty in your work is essential in this course. Academic integrity means that everything you submit should reflect your own understanding, unless otherwise specified. This includes distinguishing your original ideas from those of others, whether from readings, discussions, or AI tools. While collaboration is welcomed, your submissions should reflect your individual perspective rather than direct copies of others’ work. Sharing completed work, unless explicitly allowed, goes against our guidelines. If you’re ever uncertain about these policies, please reach out—there’s no penalty for asking, and I’m here to help clarify.
-
-### Use of Large Language Models (LLMs) and Generative AI
-{:.no_toc}
-
-Students may use LLMs or generative AI tools responsibly for ideation or assistance with complex concepts, provided their use is fully acknowledged. Your submissions should indicate how and to what extent these tools assisted you. Remember, you are responsible for the accuracy and originality of your work; using AI to shortcut the learning process or fabricate data is prohibited. AI should be a support tool, not a replacement for your analysis and critical thinking.
-
-### Collaboration and Academic Dishonesty
-{:.no_toc}
-
-Collaboration in this course means working together to understand concepts—not sharing completed work or solutions. You are encouraged to discuss ideas and challenges with classmates, but submitted work should be yours alone. Sharing solutions, copying code directly from other sources, or submitting work that does not reflect your understanding violates our standards. Always clearly cite sources and distinguish your contributions from those of others. If you’re unsure about what constitutes acceptable collaboration, please ask.
-
-### Community Standards
-{:.no_toc}
-
-Our classroom is a place where diverse perspectives are valued. Maintaining an inclusive, respectful, and open environment is a shared responsibility of both students and instructors. We each bring unique experiences and backgrounds that shape our understanding. Please be mindful of how your actions, words, and even seemingly small comments can impact others. If you ever feel that bias or a lack of inclusivity is affecting your experience, please connect with me. Additional resources such as the Office for Gender Equity and the Ombuds Office are also available to provide support. Harvard Medical School is committed to an inclusive learning environment, and we encourage you to reach out if you encounter barriers.
-
-### Reasonable Accommodations
-{:.no_toc}
-
-Harvard Medical School is dedicated to supporting students with documented disabilities. If you need accommodations, please connect with the Disability Access Office or HMS Director of Disability Services, ideally at least two weeks before accommodations are needed. This process ensures privacy, with only relevant parties informed. Feel free to discuss your needs with me directly as well, and we’ll work together to ensure you have the support necessary to succeed.
-
-### Late Policy
-{:.no_toc}
-
-Extensions are only granted in exceptional cases. If you need additional time, please contact me as early as possible to request an extension. Requests close to the deadline may not receive a response in time. Simply submitting a request does not guarantee an extension. If you’re unable to complete your work fully, it’s better to submit what you have by the deadline to receive credit for your efforts.
+- The office hours are listed on the [Weekly Schedule](../schedule), and will be held virtually and in-person.
+- Students can come to office hours for any questions on course assignments or material.
+- In-person office hours will be held in various locations specified in the [Weekly Schedule](../schedule). 
+- The instructor will also be hosting office hours. These will be reflected on the [Weekly Schedule](../schedule).
 
 ### Regrade Requests
 {:.no_toc}
 
-Regrade requests are available if there’s a concern that the grading rubric was applied incorrectly or if an error was made in the grading process. Requests will not be accepted if incorrect files were submitted without notifying staff before the deadline or if an outdated file was uploaded by mistake. Please be proactive in checking submissions to avoid these situations.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. 
+
+Regrade requests will **not** be considered in cases in which:
+
+- a student submits incorrect files and the student does not notify the course staff _before the assignment deadline_
+- a student fails to save their notebook before exporting and uploads an old version to the online system
+- a situation arises in which the course staff cannot ensure that the student's work was done before the assignment deadline
+
+## Course Culture
+
+Students taking this course come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, TAs and students—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
+
+### Be Aware of Your Actions
+{:.no_toc}
+
+Sometimes, the little things add up to creating an unwelcoming culture to some students. Your classmates may have medical conditions (physical or mental), personal situations (financial, family, etc.), or interests that aren’t common to most students in the course. Another aspect of professionalism is avoiding comments that (likely unintentionally) put down colleagues for situations they cannot control. Bragging in open space that an assignment is easy or “crazy,” for example, can send subtle cues that discourage classmates who are dealing with issues that you can’t see. Please take care, so we can create a class in which all students feel supported and respected.
+
+Beyond the slips that many of us make unintentionally are a host of behaviors that the course staff, department, and university do not tolerate. These are generally classified under the term harassment; sexual harassment is a specific form that is governed by federal laws known as Title IX.
+
+### Be Respectful
+{:.no_toc}
+
+Professionalism and respect for diversity are not just matters between students; they also apply to how the course staff treat the students. The staff of this course will treat you in a way that respects our differences. However, despite our best efforts, we might slip up, hopefully inadvertently. If you are concerned about classroom environment issues created by the staff or overall class dynamic, please feel free to talk to us about it. The instructor particular welcomes any comments or concerns regarding conduct of the course and the staff.
+
+We are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds. If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with us. We want to be resources for you.
+
+## Course Policies 
+
+### We Want You to Succeed!
+{:.no_toc}
+
+You are more than welcome to visit our office hours and talk with us. We know graduate school can be stressful and we want to help you succeed.
+
+### Late Policy
+{:.no_toc}
+
+Extensions are only provided in the case of exceptional circumstances. For that, email the course instructor to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+
+### Assignments
+{:.no_toc}
+
+AI research and applications can involve collaboration and group discussions. While you may talk with others about the homework, we ask that you write your solutions individually in your own words. If we suspect that you have submitted plagiarized work, we will call you in for a meeting. If we then determine that plagiarism has occurred, we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, along with reporting your offense to the Center of Student Conduct.
+
+Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. 
+
+### Using Large Language Models (LLMs), Generative AI, and Coding Copilots
+{:.no_toc}
+
+The following policy outlines the guidelines for the use of generative AI, LLMs, and coding copilots in student assignments.
+
+- **Responsibility for content:** Students who use LLMs and generative AI tools in their assignments must take full responsibility for the content they submit. This includes ensuring the accuracy, relevance, and originality of the information provided by these tools.
+
+- **Acknowledgment of AI use:** Students must clearly acknowledge any use of LLMs or generative AI in their assignments. This acknowledgment should specify the nature and extent of the assistance received from these tools. LLMs and generative AI can be used to enhance the educational experience and help with ideation and understanding of complex concepts. However, students must perform the critical thinking, analysis, and synthesis of information.
+
+- **Ethical use and originality:** Students must use these tools ethically, following the principles of academic honesty. The use of AI to plagiarize, misrepresent original work, or fabricate data is strictly prohibited. Students are encouraged to use these tools to inspire and inform their work, not to undermine the learning process.
+
+- **Coding copilots:** Students may use coding copilots to assist with coding tasks. However, students bear ultimate responsibility for the code they submit, including its correctness, efficiency, and originality. Instructors have the discretion to assess students’ conceptual understanding of the code as part of grading.
+
+- **Instructor discretion:** Instructors may specify assignments where LLMs, generative AI, or coding copilots are particularly encouraged or prohibited, depending on the assignment's learning objectives.
+
+This policy helps students get ready for a future with AI in jobs and ensures their education focuses on honesty and learning. [Students are encouraged to read this NEJM AI editorial on why we support the use of LLMs and generative AI](https://ai.nejm.org/doi/full/10.1056/AIe2300128).
+
+
+### Collaboration Policy and Academic Dishonesty
+{:.no_toc}
+
+All work in this course is governed by [Harvard Medical School’s academic integrity policies](https://issuu.com/hmsgraduateeducation/docs/handbook_updates_all_22-23_gc?fr=sYjRlNzYxOTI5MDQ). It is the students’ responsibility to be aware of these policies and to ensure that their work adheres to them both in detail and in spirit. Unless otherwise specified by the instructor, the assumption is that all work submitted must reflect the student’s own effort and understanding. Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from conversations with other people. When working with others you must do so in the spirit of collaboration, not via a unidirectional transfer of information. Note that sharing or sending completed assignments to others will nearly always violate this collaborative standard. If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification. 
+
+Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from collaboration with other people. Specifically, this means that:
+
+- Students must properly cite all submitted work appropriately.
+- Unless noted otherwise, students are expected to complete assignments, quizzes, and projects individually, not as teams. Discussion about course content and materials is acceptable, but sharing solutions is not acceptable.
+- Even though students are encouraged to consult websites for solutions to coding problems, they may never just copy code.
+
+If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification.
+
+### Community Standards
+{:.no_toc}
+
+Harvard Medical School is committed to supporting inclusive learning environments that value and affirm the diverse ideas and unique life experiences of all people. An equitable, inclusive classroom is a shared responsibility of both instructors and students, and both are encouraged to consider how their own experiences and biases may influence the learning environment. This requires an open mind and respect for differences of all kinds. 
+
+Students are encouraged to contact the course director if they are experiencing bias or feel that their learning experience – including a course’s content, manner of instruction, or learning environment – is not inclusive. Program administrators and directors, the Office for Gender Equity, and the [Ombuds Office](https://hms.harvard.edu/departments/ombuds-office) are also available to discuss your experiences and provide support. Additionally, students can utilize [Harvard’s Anonymous Reporting Hotline](https://reportinghotline.harvard.edu/) to report issues related to bias. 
+
+### Academic and Other Support Services
+{:.no_toc}
+
+We value your well-being and recognize that as a graduate student you are asked to balance a variety of responsibilities and potential stressors: in class, in lab, and in life. If you are struggling with experiences either in- or outside of class, there are resources available to help. In addition to program leadership, master’s students can contact Kimberly_Lincoln@hms.harvard.edu, HMS Director of Administration and Student Affairs for Master’s Programs and Johanna_Gutlerner@hms.harvard.edu, Senior Associate Dean for Graduate Education, for support.
+
+### Wellbeing and Mental Health Services
+{:.no_toc}
+
+Counseling and Mental Health Services (CAMHS) is a counseling and mental health support service that seeks to work collaboratively with students and the University to support individuals experiencing some measure of distress in their lives. It provides coverage to students year-round and is included in the student health fee, regardless of insurance, at no additional cost. More information is available on the [CAMHS website](https://camhs.huhs.harvard.edu/) or by calling the main office at 617-495-2042. Urgent care can be reached 24/7 at 617-495-5711.
+
+[CAMHS Care Line:](https://camhs.huhs.harvard.edu/camhs-cares) The CAMHS Cares line 617-495-2042 is a 24/7 support line available to Harvard students who have mental health concerns, whether you are in immediate distress or not, on-campus or elsewhere. This the Line can also be used as resource for Harvard personnel who needs advice about a student who may be experiencing a mental health crisis. At all times, including evenings, weekends, and holidays, you can follow the prompts to speak directly with a CAMHS Cares Counselor about an urgent concern or if you just need to talk to someone about a difficult challenge.
+
+[TimelyCare](https://camhs.huhs.harvard.edu/timelycare), a virtual mental health and wellbeing platform for all Harvard students covered by the Student Health Fee, offers free virtual mental health care including scheduled counseling, psychiatry, and self-care content to support wellbeing and mental health any time. Scheduled therapy appointments are readily available.
+
+### Reasonable Accommodations
+{:.no_toc}
+
+As an institution that values diversity and inclusion, our goal is to create learning environments that are usable, equitable, inclusive and welcoming. Harvard University complies with federal legislation for individuals with disabilities and offers reasonable accommodations to qualified students with documented disabilities and temporary impairments. To make a request for reasonable accommodations in a course, students must first connect with their local disability office. The HMS Director of Disability Services, Timothy Rogers (timothy_rogers@hms.harvard.edu), is the point of contact for accommodation information for HMS master’s and MD students.
+
+Accommodations are determined through an interactive process and are not retroactive. Therefore, students should contact their local disability office as soon as possible, preferably at least two weeks before accommodations are needed in a course, or immediately following an injury or illness, in order to initiate the accommodation process. Students are strongly encouraged to discuss their access needs with their instructors; however, instructors cannot independently institute individual accommodations without prior approval from the disability office. Student privacy surrounding disability status is recognized under FERPA. Information about accommodations is shared on a need-to-know basis, and with only those individuals involved in instituting the accommodation.  

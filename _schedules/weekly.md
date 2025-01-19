@@ -25,25 +25,28 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-    - name: OH Ullanat
-      start: 3:00 PM
+    - name: Lecture
+      start: 2:00 PM
       end: 4:00 PM
+      location: TMEC 128/TMEC227
+    - name: OH Prof Zitnik
+      start: 5:00 PM
+      end: 6:00 PM
+      location: Countway 309
+    - name: OH Shearer
+      start: 4:00 PM
+      end: 5:00 PM
       location: Countway 423/424
   - name: Wednesday
   - name: Thursday
     events:
-      - name: Lecture
-        start: 2:00 PM
-        end: 4:00 PM
-        location: Countway 403
-      - name: OH Prof Zitnik
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Countway 309
-  - name: Friday
-    events:
       - name: OH Ektefaie
-        start: 11:00 AM
-        end: 12:00 PM
+        start: 1:00 PM
+        end: 2:00 PM
         location: Countway 423/424
+      - name: OH Huang
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Countway 423/424
+  - name: Friday
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Calendar
 nav_order: 2.5
-description: BMIF 203 - Aritificial Inteligence in Medicine II course modules and topics
+description: Aritificial Inteligence in Medicine II course modules
 ---
 
 # Calendar

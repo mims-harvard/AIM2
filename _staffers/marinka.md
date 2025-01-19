@@ -1,8 +1,8 @@
 ---
 name: Marinka Zitnik
-role: Instructor
+role: Faculty Instructor
 email: marinka@hms.harvard.edu
 website: https://zitniklab.hms.harvard.edu
 photo: marinka.png
-office-hours: Thu, 4pm - 5pm
+office-hours: Tue, 5pm - 6pm, Countway 309
 ---

@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BMIF 203
+title: AIM 2
 tagline: Artificial Intelligence in Medicine II
 description: Artificial Intelligence in Medicine II
 author: Marinka Zitnik
-baseurl: '/BMIF203' # the subpath of your site, e.g. /blog
+baseurl: '/AIM2' # the subpath of your site, e.g. /blog
 url: 'https://zitniklab.hms.harvard.edu' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -28,7 +28,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Canvas:
+  Canvas BMIF 203:
+    - 'https://canvas.harvard.edu/courses/149866'
+  Canvas BMIF 702:
     - 'https://canvas.harvard.edu/courses/151093'
   Harvard DBMI:
     - 'https://dbmi.hms.harvard.edu'

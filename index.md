@@ -2,43 +2,37 @@
 layout: page
 title: Home
 nav_order: 1
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+description: Aritificial Inteligence in Medicine II
 
 ---
 
-# [BMIF 203](https://dbmi.hms.harvard.edu/education/courses/bmif-203) | Aritificial Inteligence in Medicine II
+# Aritificial Inteligence in Medicine II
 
 {: .mb-2 }
-Harvard - Foundations of Biomedical Informatics II, Spring 2024
+Harvard - [BMIF 203](https://dbmi.hms.harvard.edu/education/courses/bmif-203) and [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702), Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>
-	<p>
-		Artificial intelligence is poised to reshape medicine. This course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. 
-	</p>
-	<p>
-		The course covers foundational algorithms and highlights the nuances of handling biomedical data. It places a strong emphasis on strategies for evaluating and seamlessly integrating machine learning methods into biomedical research and clinical practice. This includes critical discussions on topics such as trustworthiness, interpretability, evaluation, and the ethical and legal challenges associated with biomedical artificial intelligence.
-	</p>
+Advances in AI will have a broad and profound impact on science and medicine, offering new approaches to transform medical research and practice. This course provides a comprehensive overview of cutting-edge AI paradigms, including self-supervised learning, generative models, and multimodal techniques that integrate diverse data types. Beyond foundational methods, the course dives into a range of real-world applications in natural language processing, medical image analysis, relational and structure understanding, and longitudinal patient data.
 </div>
 
-<div>
+#### Faculty Instructor
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Faculty Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
   {% endfor %}
-
 </div>
 
-<!-- <ul> -->
-<!-- <li><b>THIS PAGE IS UNDER CONSTRUCTION. Please don’t interpret anything on this website as truth until this warning is removed. </b></li>
-<li>Please read our <a href="http://www.ds100.org/su21faq">course FAQ</a> before contacting staff with questions that might be answered there.</li>
-<li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.</li>
-<li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
-<li>The Zoom links for all live events are in <a href="https://piazza.com/class/kpcl6edmxuk3fg?cid=6">@6 on Piazza</a>.</li>
-<li><strong>Note:</strong>The schedule of lectures and assignments is subject to change.</li>
-</ul> -->
+#### Curriculum Fellow
+
+{% assign instructors = site.staffers | where: 'role', 'Curriculum Fellow' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div>
 
 <br>
 
