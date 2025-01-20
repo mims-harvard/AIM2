@@ -2,11 +2,11 @@
 layout: page
 title: Home
 nav_order: 1
-description: Aritificial Inteligence in Medicine II
+description: Artificial Intelligence in Medicine II
 
 ---
 
-# Aritificial Inteligence in Medicine II
+# Artificial Intelligence in Medicine II 
 
 {: .mb-2 }
 Harvard - [BMIF 203](https://dbmi.hms.harvard.edu/education/courses/bmif-203) and [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702), Spring 2025
