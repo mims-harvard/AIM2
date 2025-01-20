@@ -9,15 +9,17 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
-* [Machine Bias, ProPublica, May 23, 2016](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-* [Bias In Medicine: Last Week Tonight with John Oliver, Aug 18, 2019](https://www.youtube.com/watch?v=TATSAHJKRd8)
-* [Fitbits and other wearables may not accurately track heart rates in people of color, Stat News, July 24, 2019](https://www.statnews.com/2019/07/24/fitbit-accuracy-dark-skin/)
-* [We should treat algorithms like prescription drugs, Quartz, Feb 14, 2019](https://qz.com/1540594/treating-algorithms-like-prescription-drugs-could-reduce-ai-bias/)
+* [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
+* [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135)
+* [The medical segmentation decathlon](https://www.nature.com/articles/s41467-022-30695-9)
+* [U-Net: convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597)
 
 ## Optional Reading
 
-* [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
-* [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/content/115/16/E3635)
-* [AI could worsen health disparities, New York Times, Jan 31, 2019](https://www.nytimes.com/2019/01/31/opinion/ai-bias-healthcare.html)  
-* [Fairness and machine learning](https://fairmlbook.org)
+* [Toward robust mammography-based models for breast cancer risk](https://www.science.org/doi/pdf/10.1126/scitranslmed.aba4373)
+* [Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning](https://www.nature.com/articles/s41551-022-00936-9)
+* [International evaluation of an AI system for breast cancer screening](https://www.nature.com/articles/s41586-019-1799-6)
+* [The new era of quantitative cell imaging—challenges and opportunities](https://www.sciencedirect.com/science/article/pii/S1097276521010868)
+* [Data-analysis strategies for image-based cell profiling](https://www.nature.com/articles/nmeth.4397)
+* [Chapter 10 on “Imaging biomarkers and imaging biobanks” in “Artificial intelligence in medical imaging”](https://doi.org/10.1007/978-3-319-94878-2_10)
+* [Chapter 13 on “Cardiovascular diseases” in "Artificial intelligence in medical imaging"](https://link.springer.com/chapter/10.1007/978-3-319-94878-2_13)    

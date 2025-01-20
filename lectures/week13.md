@@ -9,12 +9,11 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [A deep learning approach to antibiotic discovery](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
-* [Sparse dictionary learning recovers pleiotropy from human cell fitness screens](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00488-9) 
+* [Artificial intelligence-enabled detection and assessment of Parkinson's disease using nocturnal breathing signals](https://www.nature.com/articles/s41591-022-01932-x)
+* [Longitudinal machine learning uncouples healthy aging factors from chronic disease risks](https://www.nature.com/articles/s43587-023-00536-5)
 
 ## Optional Reading
 
-* [Applications of machine learning in drug discovery and development](https://www.nature.com/articles/s41573-019-0024-5) 
-* [Artificial intelligence foundation for therapeutic science](https://www.nature.com/articles/s41589-022-01131-2) 
-* [Therapeutics Data Commons](https://tdcommons.ai)
-* [Identification of disease treatment mechanisms through the multiscale interactome](https://www.nature.com/articles/s41467-021-21770-8) 
+* [Temporal disease trajectories condensed from population-wide registry data covering 6.2 million patients](https://www.nature.com/articles/ncomms5022) 
+* [Deep Patient: An unsupervised representation to predict the future of patients from the electronic health records](https://www.nature.com/articles/srep26094)
+* [UniTS: A unified multi-task time series model](https://arxiv.org/abs/2403.00131)

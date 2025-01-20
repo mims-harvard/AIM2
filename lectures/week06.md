@@ -9,13 +9,14 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [Network medicine: a network-based approach to human disease](https://www.nature.com/articles/nrg2918)
-* [node2vec: Scalable feature learning for networks](https://dl.acm.org/doi/10.1145/2939672.2939754)
+* [Foundation models for generalist medical AI](https://www.nature.com/articles/s41586-023-05881-4)
+* [Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning aka CheXzero](https://www.nature.com/articles/s41551-022-00936-9)
+* [A generalist learner for multifaceted medical image interpretation](https://arxiv.org/abs/2405.07988)
 
 ## Optional Reading
 
-* [Uncovering disease-disease relationships through the incomplete interactome](https://www.science.org/doi/10.1126/science.1257601)
-* [Identification of disease treatment mechanisms through the multiscale interactome](https://www.nature.com/articles/s41467-021-21770-8)
-* [Sparse dictionary learning recovers pleiotropy from human cell fitness screens](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00488-9)
-* [Network biology concepts in complex disease comorbidities](https://www.nature.com/articles/nrg.2016.87)
-* [Systematic integration of biomedical knowledge prioritizes drugs for repurposing](https://elifesciences.org/articles/26726)
+* [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3)
+* [A deep learning system for differential diagnosis of skin diseases](https://www.nature.com/articles/s41591-020-0842-3)
+* [Artificial intelligence in digital pathology — new tools for diagnosis and precision oncology](https://www.nature.com/articles/s41571-019-0252-y)
+* [AI-based pathology predicts origins for cancers of unknown primary](https://www.nature.com/articles/s41586-021-03512-4)
+* [Data-efficient and weakly supervised computational pathology on whole-slide images](https://www.nature.com/articles/s41551-020-00682-w)

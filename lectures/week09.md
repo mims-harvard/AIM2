@@ -9,11 +9,11 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [Doctor2Vec: Dynamic Doctor Representation Learning for Clinical Trial Recruitment](https://ojs.aaai.org//index.php/AAAI/article/view/5394)
-* [Evaluating eligibility criteria of oncology trials using real-world data and AI](https://www.nature.com/articles/s41586-021-03430-5)
+* [Integrating biomedical research and electronic health records to create knowledge based biologically meaningful machine readable embeddings](https://www.nature.com/articles/s41467-019-11069-0)
+* [A foundation model for clinician-centered drug repurposing](https://www.nature.com/articles/s41591-024-03233-x)
+
 
 ## Optional Reading
 
-* [Recent innovation in deep learning for clinical trials](https://youtu.be/BXyxO_45VhE)
-* [COMPOSE: Cross-modal pseudo-siamese network for patient trial matching](https://doi.org/10.1145/3394486.3403123)
-* [CLARA: Clinical report auto-completion](https://dl.acm.org/doi/abs/10.1145/3366423.3380137)
+* [Network medicine framework for identifying drug repurposing opportunities for COVID-19](https://www.pnas.org/content/118/19/e2025581118)
+* [Deep learning for diagnosing patients with rare genetic diseases](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238)

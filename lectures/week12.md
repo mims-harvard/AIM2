@@ -5,7 +5,7 @@ nav_order: 14
 description: Artificial Intelligence in Medicine II
 ---
 
-# Week 12 - Ethical & Legal Considerations for Biomedical AI
+# Week 12 - Ethical & Legal Considerations for Medical AI
 
 ## Required Reading
 
@@ -16,9 +16,8 @@ description: Artificial Intelligence in Medicine II
 
 ## Patient Cases for In-Class Discussion
 
-* [The Patient with Diabetes - Part 1]
-  (/BMIF203/assets/L12-The-Patient-with-Diabetes-Part-1.pdf)
-* [The Patient with Diabetes - Part 2](/BMIF203/assets/L12-The-Patient-with-Diabetes-Part-2.pdf)
+* [The Patient with Diabetes - Part 1](../assets/L12-The-Patient-with-Diabetes-Part-1.pdf)
+* [The Patient with Diabetes - Part 2](../assets/L12-The-Patient-with-Diabetes-Part-2.pdf)
 
 ## Optional Reading
 

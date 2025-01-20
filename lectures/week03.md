@@ -9,14 +9,10 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [The UCLA ATLAS Community Health Initiative: promoting precision health research in a diverse biobank](https://www.sciencedirect.com/science/article/pii/S2666979X22002063?via%3Dihub)
-* [Electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease](https://www.medrxiv.org/content/10.1101/2022.08.03.22278352v1)
+* [Generative adversarial nets](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
+* [Privacy-preserving generative deep neural networks support clinical data sharing](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.118.005122)
 
 ## Optional Reading
 
-* [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y)
-* [Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
-* [Temporal disease trajectories condensed from population-wide registry data covering 6.2 million patients](https://www.nature.com/articles/ncomms5022) 
-* [Deep Patient: An unsupervised representation to predict the future of patients from the electronic health records](https://www.nature.com/articles/srep26094)
-* [Federated learning of electronic health records to improve mortality prediction in hospitalized patients With COVID-19: Machine learning approach](https://medinform.jmir.org/2021/1/e24207/)
-* [Global Biobank Meta-analysis Initiative: Powering genetic discovery across human disease](https://www.sciencedirect.com/science/article/pii/S2666979X22001410?via%3Dihub)
+* [Toward expert-level medical question answering with large language models](https://www.nature.com/articles/s41591-024-03423-7)
+* [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)

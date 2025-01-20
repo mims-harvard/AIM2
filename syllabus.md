@@ -65,7 +65,7 @@ Your final grade in this course will be based on a combination of semester-long 
 
 ## Weekly Reading Assessments  
 
-Each week, you’ll be assigned at most three articles that explore important topics in medical AI. These readings are essential for building a strong understanding of the concepts we’ll discuss in class.
+Each week, you’ll be assigned 2-4 articles that explore important topics in medical AI. These readings are essential for building a strong understanding of the concepts we’ll discuss in class.
 After completing the readings, you’ll answer 3-5 short answer questions to reflect on what you’ve learned. These questions are graded on completion, so if you submit thoughtful responses, you’ll receive full credit. You’ll also receive model answers to compare with your own, helping you check your understanding and reinforce the material.
 
 We encourage you to engage meaningfully with these questions, as your responses will guide us in identifying any misunderstood or overlooked concepts. This feedback will be used to tailor our lectures and ensure we’re covering areas that need more clarity.

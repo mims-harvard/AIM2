@@ -9,12 +9,16 @@ description: Artificial Intelligence in Medicine II
 
 ## Required Reading
 
-* [Machine learning of patient characteristics to predict admission outcomes in the Undiagnosed Diseases Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2776897)
-* [Learning the language of viral evolution and escape](https://www.science.org/doi/10.1126/science.abd7331)
+* [node2vec: Scalable feature learning for networks](https://dl.acm.org/doi/10.1145/2939672.2939754)
+* [Graph representation learning in biomedicine and healthcare](https://www.nature.com/articles/s41551-022-00942-x)
+* [Identification of disease treatment mechanisms through the multiscale interactome](https://www.nature.com/articles/s41467-021-21770-8)
 
 ## Optional Reading
 
-* [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)
-* [The language of a virus](https://www.science.org/doi/10.1126/science.abf6894)
-* [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/pdf/10.1073/pnas.2016239118)
-* [Large language models encode clinical knowledge](https://arxiv.org/abs/2212.13138)
+* [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/abs/1709.05584)
+* [Network medicine: a network-based approach to human disease](https://www.nature.com/articles/nrg2918)
+* [Modeling polypharmacy side effects with graph convolutional networks](https://doi.org/10.1093/bioinformatics/bty294)
+* [Uncovering disease-disease relationships through the incomplete interactome](https://www.science.org/doi/10.1126/science.1257601)
+* [Sparse dictionary learning recovers pleiotropy from human cell fitness screens](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00488-9)
+* [Network biology concepts in complex disease comorbidities](https://www.nature.com/articles/nrg.2016.87)
+* [Systematic integration of biomedical knowledge prioritizes drugs for repurposing](https://elifesciences.org/articles/26726)
