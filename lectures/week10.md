@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Biomedical Imaging Part I
-nav_order: 1
-parent: M5 - Biomedical Imaging
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L10 - Molecular AI
+nav_order: 12
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 10 - Biomedical Imaging Part I
+# Week 10 - Molecular AI
 
-## Required Reading (Week 10 Pre-Class Quiz)
+## Required Reading
 
 * [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 * [Toward robust mammography-based models for breast cancer risk](https://www.science.org/doi/pdf/10.1126/scitranslmed.aba4373)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=881535a1-e306-4119-8356-ae7300f82d6b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

@@ -2,12 +2,12 @@
 title: Week 9
 ---
 
-Natural language processing across clinical domains and tasks
+Knowledge graphs, Building multimodal knowledge graphs, Structure-inducing pre-training, Knowledge-based foundation models
 
-Mar 28
-: **Module 4**{: .label .label-blue }**Lecture**{: .label .label-purple }[Medical language modeling Part II](/BMIF203/lectures/module4/week09)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L9.pdf), [Reading List](/BMIF203/lectures/module4/week09)
+Apr 1
+: **Lecture**{: .label .label-purple }[Networks II](lectures/week09)
+  : [Slides](#), [Reading List](lectures/week09)
 
-Apr 29
-: **Quiz**{: .label .label-green }[Week 10 pre-class quiz](#) (due Apr 4)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Apr 2
+: **Quiz**{: .label .label-green }[Week 10 pre-class quiz](#) (due Apr 8)
+  : Canvas

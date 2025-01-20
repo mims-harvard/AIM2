@@ -2,16 +2,16 @@
 title: Week 7
 ---
 
-Machine learning with heterogeneous graphs, graph neural networks, knowledge graph embeddings, prediction and reasoning using knowledge graphs
+Explainability and interpretability in medical AI, Feature importance and Shapley values, Interpreting CNNs with heatmaps and other methods, Discussion: Is explainability critical or overrated?
 
-Mar 7
-: **Module 3**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical graph learning Part II](/BMIF203/lectures/module3/week07)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L7.pdf), [Reading List](/BMIF203/lectures/module3/week07)
+Mar 11
+: **Lecture**{: .label .label-purple }[Trustworthy AI](lectures/week07)
+  : [Slides](#), [Reading List](lectures/week07)
 
-Mar 8
-: **Quiz**{: .label .label-green }[Week 8 pre-class quiz](#) (due Mar 21)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Mar 11
+: **Course Project**{: .label .label-yellow }[Mid-Term Student Presentations](#)
+  : Canvas
 
-Mar 8
-: **PSet due**{: .label .label-yellow }[PSet 1: Bias, trustworthiness, and fairness](#)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Mar 12
+: **Quiz**{: .label .label-green }[Week 8 pre-class quiz](#) (due Mar 25)
+  : Canvas

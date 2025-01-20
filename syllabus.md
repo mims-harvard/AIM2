@@ -55,13 +55,23 @@ Your final grade in this course will be based on a combination of semester-long 
 
 | Component                                                      | Percentage | Description                                                                                                                                               
 |----------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------
-| Project Proposal                                               | 5%         | A 2-page proposal outlining your project’s research question, methodology, dataset, and contingency plans, evaluated for clarity and feasibility. A third page is allowed for figures and tables. Unlimited space for references.        
-| Peer-Reviewed Feedback on Proposal                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        
-| Midterm Project Presentation                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback. Presentation file submitted through Canvas.             
-| Final Project Report                                           | 50%        | A comprehensive, [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights.                                                                                                                                                                        |
-| Final Project Presentation                                     | 12%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
-| Focused Tutorials                                            | 5%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               
-| Weekly Reading Assessments                                     | 13%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
+| [Project Proposal](../course_project)                                               | 5%         | A 2-page proposal outlining your project’s research question, methodology, dataset, and contingency plans, evaluated for clarity and feasibility. A third page is allowed for figures and tables. Unlimited space for references.        
+| [Peer-Reviewed Feedback on Proposal](../course_project)                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        
+| [Midterm Project Presentation](../course_project)                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback. Presentation file submitted through Canvas.             
+| [Final Project Report](../course_project)                                           | 50%        | A comprehensive, [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights.                                                                                                                                                                        |
+| [Final Project Presentation](../course_project)                                     | 12%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
+| [Focused Tutorials](../focused_tutorials)                                            | 5%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               
+| [Weekly Reading Assessments](../syllabus/#weekly-reading-assessments)                                     | 13%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
+
+## Weekly Reading Assessments  
+
+Each week, you’ll be assigned at most three articles that explore important topics in medical AI. These readings are essential for building a strong understanding of the concepts we’ll discuss in class.
+After completing the readings, you’ll answer 3-5 short answer questions to reflect on what you’ve learned. These questions are graded on completion, so if you submit thoughtful responses, you’ll receive full credit. You’ll also receive model answers to compare with your own, helping you check your understanding and reinforce the material.
+
+We encourage you to engage meaningfully with these questions, as your responses will guide us in identifying any misunderstood or overlooked concepts. This feedback will be used to tailor our lectures and ensure we’re covering areas that need more clarity.
+
+These assessments are designed to help you consolidate your learning and ensure you’re mastering the critical topics each week.
+
 
 ## Attendance
 

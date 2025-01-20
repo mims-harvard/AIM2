@@ -2,12 +2,12 @@
 title: Week 6
 ---
 
-Foundations of graph representation learning, link prediction, node classification, graph clustering, graph classification, semi-supervised learning, label propagation, network medicine, and disease modules.
+Explore advanced applications of AI in medical imaging, with a focus on generalist medical AI models, Understand the development and validation of medical imaging interpretation models, Discuss best practices for evaluating medical imaging AI models, with emphasis on robustness and performance across diverse populations
 
-Feb 29
-: **Module 3**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical graph learning Part I](/BMI702/lectures/module3/week06)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L6.pdf), [Reading List](/BMIF203/lectures/module3/week06)
+Mar 4
+: **Lecture**{: .label .label-purple }[Medical Imaging II](lectures/week06)
+  : [Slides](#), [Reading List](lectures/week06)
 
-Mar 1
-: **Quiz**{: .label .label-green }[Week 7 pre-class quiz](#) (due Mar 7)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Mar 5
+: **Quiz**{: .label .label-green }[Week 7 pre-class quiz](#) (due Mar 11)
+  : Canvas

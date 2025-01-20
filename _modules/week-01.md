@@ -2,12 +2,12 @@
 title: Week 1
 ---
 
-Course overview and introduction to biomedical AI
+Course overview, Introduction to NLP, NLP in a clinical setting, Medical terminology challenges, Concept extraction from clinical notes, Note summarization, Clinical trial matching
 
-Jan 25
-: **Lecture**{: .label .label-purple }[What makes biomedical problems unique](/BMIF203/lectures/week01)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L1.pdf), [Reading List](/BMIF203/lectures/week01)
+Jan 28
+: **Lecture**{: .label .label-purple }[NLP I](lectures/week01)
+  : [Slides](#), [Reading List](lectures/week01)
 
-Jan 26
-: **Quiz**{: .label .label-green }[Week 2 pre-class quiz](#) (due Feb 1)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Jan 29
+: **Quiz**{: .label .label-green }[Week 2 pre-class quiz](#) (due Feb 4)
+  : Canvas

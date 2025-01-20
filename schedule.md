@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-nav_order: 13
+nav_order: 17
 description: Aritificial Inteligence in Medicine II weekly schedule
 ---
 

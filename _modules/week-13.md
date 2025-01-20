@@ -2,16 +2,12 @@
 title: Week 13
 ---
 
-AI-guided drug design, small-molecule generation, molecule optimization, drug target identification
+Digital biomarkers and disease progression tracking, Patient/disease progression modeling using transformers, In-home health and disease monitoring systems, Intelligent and accessible AI systems for healthcare delivery
 
-Apr 25
-: **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Generative AI Part I](/BMIF203/lectures/module6/week13)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L13.pdf), [Reading List](/BMIF203/lectures/module6/week13)
+Apr 29
+: **Lecture**{: .label .label-purple }[Time Series & Sensors](lectures/week13)
+  : [Slides](#), [Reading List](lectures/week13)
 
-Apr 26
-: **Quiz**{: .label .label-green }[Week 14 pre-class quiz](#) (due May 2)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
-
-Apr 26
-: **PSet due**{: .label .label-yellow }[PSet 3: Biomedical imaging methods and applications](#)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Apr 29
+: **Course Project**{: .label .label-yellow }[Final Student Presentations](#)
+  : Canvas

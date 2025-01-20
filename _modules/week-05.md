@@ -2,16 +2,12 @@
 title: Week 5
 ---
 
-Fairness, bias, distribution shifts, and robustness
+Understand the various types of medical imaging (radiology, oncology, pathology, and other imaging modalities), Learn the basic tasks in AI for medical imaging: classification, regression, and segmentation, Explore how AI is applied in different medical imaging contexts, Understand convolutional neural networks (CNNs) and their role in medical imaging, Learn segmentation techniques, focusing on the U-Net architecture, Apply CNNs to biomedical image segmentation tasks, including preprocessing and evaluation
 
-Feb 22
-: **Module 2**{: .label .label-blue }**Lecture**{: .label .label-purple }[Trustworthy & Efficient AI Part II](/BMIF203/lectures/module2/week05)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L5.pdf), [Reading List](/BMIF203/lectures/module2/week05)
+Feb 25
+: **Lecture**{: .label .label-purple }[Medical Imaging I](lectures/week05)
+  : [Slides](#), [Reading List](lectures/week05)
 
-Feb 23
-: **Quiz**{: .label .label-green }[Week 6 pre-class quiz](#) (due Feb 29)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
-
-Feb 23
-: **PSet released**{: .label .label-yellow }[PSet 1: Bias, trustworthiness, and fairness](#)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Feb 26
+: **Quiz**{: .label .label-green }[Week 6 pre-class quiz](#) (due March 4)
+  : Canvas

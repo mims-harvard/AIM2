@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Week 1 - Intro
+title: L1 - NLP I
 nav_order: 3
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 1 - What Makes Biomedical Problems Unique
+# Week 1 - NLP I
 
 ## Required Reading
 
 * [How machine learning will transform biomedicine](https://www.sciencedirect.com/science/article/pii/S0092867420302841)
 * [Do no harm: a roadmap for responsible machine learning for health care](https://www.nature.com/articles/s41591-019-0548-6)
-
 
 ## Optional Reading
 

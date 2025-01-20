@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Trustworthy & Efficient AI Part I
-parent: M2 - Trustworthy & Efficient AI
-nav_order: 1
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L4 - Agentic AI
+nav_order: 6
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 4 - Trustworthy & Efficient AI Part I
+# Week 4 - Agentic AI
 
 ## Required Reading (Week 4 Pre-Class Quiz)
 
 * ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://dl.acm.org/doi/10.1145/2939672.2939778)
 * [Explainable machine-learning predictions for the prevention of hypoxaemia during surgery](https://www.nature.com/articles/s41551-018-0304-0)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8bbd5205-9b45-4c50-85c6-ae3c0042ccbf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

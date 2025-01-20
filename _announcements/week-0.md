@@ -4,5 +4,5 @@ week: 0
 date: 2019-04-01
 ---
 
-Hello world!
+Week 0 Announcement
 {: .fs-5 }

@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Clinical AI Part I
-parent: M1 - Clinical AI
-nav_order: 1
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L2 - NLP II
+nav_order: 4
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 2 - Clinical AI Part I
+# Week 2 - NLP II
 
-## Required Reading (Week 2 Pre-Class Quiz)
+## Required Reading
 
 * [Comparison of approaches for heart failure case identification from electronic health record data](https://jamanetwork.com/journals/jamacardiology/fullarticle/2557840)
 * [Development of a machine learning model using electronic health record data to identify antibiotic use among hospitalized patients](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777837)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a4d960f2-2c4c-41eb-9cfb-ae2d0140bcb0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

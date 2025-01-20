@@ -2,13 +2,13 @@
 title: Week 12
 ---
 
-Introduction to ethical frameworks, data privacy, regulation and liability aspects of AI (Guest lecture by [Dr. Sara Gerke](https://petrieflom.law.harvard.edu/about/bio/gerke-sara))
+Regulation of AI algorithms and devices in healthcare, FDA oversight and liability concerns, Prospective clinical trials for AI systems and AI-augmented devices
 
-April 18
-: **Lecture**{: .label .label-purple }[Ethical and legal considerations for biomedical AI ](/BMIF203/lectures/week14)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L12.pdf), [Reading List](/BMIF203/lectures/week12)
+April 22
+: **Lecture**{: .label .label-purple }[Ethical and Legal Considerations](lectures/week14)
+  : [Slides](#), [Reading List](lectures/week12)
 
-Apr 19
-: **Quiz**{: .label .label-green }[Week 13 pre-class quiz](#) (due Apr 25)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Apr 23
+: **Quiz**{: .label .label-green }[Week 13 pre-class quiz](#) (due Apr 29)
+  : Canvas
 

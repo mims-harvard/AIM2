@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Medical Language Modeling Part I
-nav_order: 1
-parent: M4 - Language Modeling
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L8 - Networks I
+nav_order: 10
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 8 - Medical Language Modeling Part I
+# Week 8 - Networks I
 
-## Required Reading (Week 8 Pre-Class Quiz)
+## Required Reading
 
 * [Machine learning of patient characteristics to predict admission outcomes in the Undiagnosed Diseases Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2776897)
 * [Learning the language of viral evolution and escape](https://www.science.org/doi/10.1126/science.abd7331)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a9a9685f-3f73-4746-b68a-ae5f001f8f71&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

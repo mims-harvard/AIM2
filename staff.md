@@ -2,7 +2,7 @@
 layout: page
 title: Staff
 description: Aritificial Inteligence in Medicine II course staff
-nav_order: 11
+nav_order: 16
 ---
 
 # Staff

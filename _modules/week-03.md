@@ -2,12 +2,16 @@
 title: Week 3
 ---
 
-Machine learning on clinico-genetic datasets, diagnostic odyssey and therapy selection
+Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), GenAI Fundamentals (training, optimization and RLHF), LLMs and Multimodal LLMs, Grounding and RAG, Healthcare applications of generative AI, Synthetic data generation, Data privacy concerns
 
-Feb 8
-: **Module 1**{: .label .label-blue }**Lecture**{: .label .label-purple }[Clinical AI Part II](/BMI702/lectures/module1/week03)
-  : [Slides](/BMI702/assets/zitnik-BMI702-L3.pdf), [Reading List](/BMI702/lectures/module1/week03)
+Feb 11
+: **Lecture**{: .label .label-purple }[Generative AI](lectures/week03)
+  : [Slides](#), [Reading List](lectures/week03)
 
-Feb 9
-: **Quiz**{: .label .label-green }[Week 4 pre-class quiz](#) (due Feb 15)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Feb 11
+: **Course Project**{: .label .label-yellow }[Project Proposal Due for Peer Review](#)
+  : Canvas
+
+Feb 12
+: **Quiz**{: .label .label-green }[Week 4 pre-class quiz](#) (due Feb 18)
+  : Canvas

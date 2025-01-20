@@ -1,21 +1,16 @@
 ---
 layout: page
-title: Biomedical Graph Learning Part I
-nav_order: 1
-parent: M3 - Graph Learning
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L6 - Medical Imaging II
+nav_order: 8
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 6 - Biomedical Graph Learning Part I
+# Week 6 - Medical Imaging II
 
-## Required Reading (Week 6 Pre-Class Quiz)
+## Required Reading
 
 * [Network medicine: a network-based approach to human disease](https://www.nature.com/articles/nrg2918)
 * [node2vec: Scalable feature learning for networks](https://dl.acm.org/doi/10.1145/2939672.2939754)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d8ed827e-32b9-4ac7-b41f-ae490111ba99&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

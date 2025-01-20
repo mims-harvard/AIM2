@@ -1,22 +1,16 @@
 ---
 layout: page
-title: Biomedical Imaging Part II
-nav_order: 2
-parent: M5 - Biomedical Imaging
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L11 - Multimodal AI
+nav_order: 13
+description: Artificial Intelligence in Medicine II
 ---
 
-# Week 11 - Biomedical Imaging Part II
+# Week 11 - Multimodal AI
 
-## Required Reading (Week 11 Pre-Class Quiz)
+## Required Reading
 
 * [Chapter 10 on “Imaging biomarkers and imaging biobanks” in “Artificial intelligence in medical imaging”](https://doi.org/10.1007/978-3-319-94878-2_10)
 * [AI-based pathology predicts origins for cancers of unknown primary](https://www.nature.com/articles/s41586-021-03512-4)
-
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e7f79a9f-a4dc-473c-a4d9-ae6d0026598b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 

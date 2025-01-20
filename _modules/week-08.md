@@ -2,16 +2,12 @@
 title: Week 8
 ---
 
-Large language models (Guest lecture by [Dr. Jonathan Richard Schwarz](https://jonathan-schwarz.github.io/))
+Structured and relational datasets, Introduction to Graph Neural Networks (GNNs), Graph transformers, Combining multiple data modalities with GNNs
 
-Mar 21
-: **Module 4**{: .label .label-blue }**Lecture**{: .label .label-purple }[Medical language modeling Part I](/BMIF203/lectures/module4/week08)
-  : [Slides](/BMIF203/assets/zitnik-BMI702-L8.pdf), [Reading List](/BMIF203/lectures/module4/week08)
+Mar 25
+: **Lecture**{: .label .label-purple }[Networks I](lectures/week08)
+  : [Slides](#), [Reading List](lectures/week08)
 
-Mar 22
-: **Quiz**{: .label .label-green }[Week 9 pre-class quiz](#) (due Mar 28)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
-
-Mar 22
-: **PSet released**{: .label .label-yellow }[PSet 2: Knowledge graphs and geometric deep learning](#)
-  : [Canvas](https://canvas.harvard.edu/courses/134015)
+Mar 26
+: **Quiz**{: .label .label-green }[Week 9 pre-class quiz](#) (due Apr 1)
+  : Canvas

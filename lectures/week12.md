@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Week 12 - Ethical & Legal
-nav_order: 9
-description: BMIF 203 - Aritificial Inteligence in Medicine II
+title: L12 - Ethical & Legal
+nav_order: 14
+description: Artificial Intelligence in Medicine II
 ---
 
 # Week 12 - Ethical & Legal Considerations for Biomedical AI
 
-## Required Reading (Week 12 Pre-Class Quiz)
+## Required Reading
 
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
 * [Ethical and legal aspects of ambient intelligence in hospitals](https://jamanetwork.com/journals/jama/fullarticle/2759956) 
@@ -19,10 +19,6 @@ description: BMIF 203 - Aritificial Inteligence in Medicine II
 * [The Patient with Diabetes - Part 1]
   (/BMIF203/assets/L12-The-Patient-with-Diabetes-Part-1.pdf)
 * [The Patient with Diabetes - Part 2](/BMIF203/assets/L12-The-Patient-with-Diabetes-Part-2.pdf)
-
-## What-Why-How Paper Highlight
-
-<iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d2929d70-ce19-46a8-91df-ae7a0106a091&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Optional Reading
 
