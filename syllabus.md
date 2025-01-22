@@ -47,7 +47,7 @@ Your final grade in this course will be based on a combination of semester-long 
 
 * All submissions related to course project (project proposal, midterm presentation materials, final report, final presentation materials) must be made through Canvas. 
 
-* Weekly reading assessments are pre-class quizzes that open at 9:00am EST on Wednesday and are due at 2:00pm EST on Tueasday (pre-class quizzes close before lectures on Tuesday). Quizzes must be completed in Canvas.
+* Weekly reading assessments are pre-class quizzes that open at 9:00am EST on Wednesday and are due at 2:00pm EST on Tuesday (pre-class quizzes close before lectures on Tuesday). Quizzes must be completed in Canvas.
 
 * Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, contact the course instructor. We will work with you to make up any missed assignments. 
 
@@ -59,9 +59,9 @@ Your final grade in this course will be based on a combination of semester-long 
 | [Peer-Reviewed Feedback on Proposal](../course_project)                             | 5%         | Constructive feedback is provided to peers, following the criteria for effective research review.                                                        
 | [Midterm Project Presentation](../course_project)                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback. Presentation file submitted through Canvas.             
 | [Final Project Report](../course_project)                                           | 50%        | A comprehensive, [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights.                                                                                                                                                                        |
-| [Final Project Presentation](../course_project)                                     | 12%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
+| [Final Project Presentation](../course_project)                                     | 13%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
 | [Focused Tutorials](../focused_tutorials)                                            | 5%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               
-| [Weekly Reading Assessments](../syllabus/#weekly-reading-assessments)                                     | 13%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
+| [Weekly Reading Assessments](../syllabus/#weekly-reading-assessments)                                     | 12%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
 
 ## Weekly Reading Assessments  
 

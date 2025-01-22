@@ -42,7 +42,7 @@ After all reviews are collected, we will anonymize and consolidate the feedback 
 
 Midway through the semester, your group will give a midterm project presentation to showcase your progress. This is your chance to share your initial findings, challenges, and next steps, while receiving valuable feedback from your peers and instructors. Presentations will be informal and aimed at helping you progress with your project—so don’t worry if you’re not fully finished yet! We’ll use this session to troubleshoot any difficulties you’re encountering and provide pointers to help guide you through the second half of the project.
 
-## Final Project Presentations and Report (62% of the Total Grade, Week 13)
+## Final Project Presentations and Report (63% of the Total Grade, Week 13)
 
 In the final weeks of the course, you’ll present your completed project in a 10-minute presentation, followed by a 5-minute Q&A session. This is your chance to showcase the research and insights you’ve developed throughout the semester.
 
