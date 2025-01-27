@@ -2,7 +2,7 @@
 title: Week 6
 ---
 
-Explore advanced applications of AI in medical imaging, with a focus on generalist medical AI models, Understand the development and validation of medical imaging interpretation models, Discuss best practices for evaluating medical imaging AI models, with emphasis on robustness and performance across diverse populations
+Explore advanced applications of AI in medical imaging, with a focus on generalist medical AI models, Understand the development and validation of medical imaging interpretation models, Discuss best practices for evaluating medical imaging AI models, with emphasis on robustness and performance across diverse populations. Lecture by [Prof. Pranav Rajpurkar](https://www.rajpurkarlab.hms.harvard.edu/)
 
 Mar 4
 : **Lecture**{: .label .label-purple }[Medical Imaging II](lectures/week06)

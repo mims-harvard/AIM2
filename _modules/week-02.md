@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-Embeddings and their role in NLP, Transformers and BERT, Hugging Face library for NLP applications, Clinical BERT and RNNs, Stack-encoder and Stack-decoder architectures, De-identification methods, LLM-based medical question-answering
+Embeddings and their role in NLP, Transformers and BERT, Hugging Face library for NLP applications, Clinical BERT and RNNs, Stack-encoder and Stack-decoder architectures, De-identification methods, LLM-based medical question-answering. Lecture by [Dr. Carlos Morato](https://www.linkedin.com/in/carlosmorato/) 
 
 Feb 4
 : **Lecture**{: .label .label-purple }[NLP II: Embeddings & Transformers](lectures/week02)

@@ -23,16 +23,17 @@ timeline:
 schedule:
   - name: 
   - name: Monday
+    events:
+    - name: OH Prof Zitnik
+      start: 12:00 PM
+      end: 1:00 PM
+      location: Countway 309
   - name: Tuesday
     events:
     - name: Lecture
       start: 2:00 PM
       end: 4:00 PM
       location: TMEC 128/TMEC227
-    - name: OH Prof Zitnik
-      start: 5:00 PM
-      end: 6:00 PM
-      location: Countway 309
     - name: OH Shearer
       start: 4:00 PM
       end: 5:00 PM

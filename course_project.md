@@ -19,8 +19,8 @@ description: Artificial Intelligence in Medicine II
 
 The term project is an exciting opportunity for you to work in small groups and explore an area of biomedical AI. This project is designed to foster creativity, collaboration, and critical thinking while allowing you to apply the AI methods and concepts you’re learning in class to a real-world challenge. We hope this will be an engaging and rewarding process as you work together to develop your ideas.
 
-* **BMIF 203:** Form and work in groups of 1-2 students
-* **BMI 702:** Form and work in groups of 2-3 students
+- **BMIF 203:** Work in groups of 1-2 students. For exceptions, contact the Course Instructor.  
+- **BMI 702:** Work in groups of 2-3 students. For exceptions, contact the Course Instructor.  
 
 ## Project Proposal and Peer Review Process (10% of the Total Grade, Weeks 3-4)
 
@@ -181,11 +181,11 @@ If you have access to additional resources through your lab or institution, you�
 For those using lab-specific tools or software, please ensure that your project is sharable with instructors and classmates. This allows us to evaluate your work and provides opportunities for peer learning. If you’re working with sensitive or restricted data or software, please choose aspects of your project that can be shared openly.
 
 
-### Open Medical Datasets
+## Project Ideas - Open Medical Datasets
 
 For your projects, you will need access to reliable and well-documented datasets that are commonly used in medical research. Below is a curated list of trusted and easily accessible open-source datasets, spanning a variety of medical data types, including imaging, clinical records, and genomics. These datasets will provide a solid foundation for applying AI techniques in healthcare, allowing you to explore real-world challenges and make meaningful contributions through your work.
 
-#### Medical Imaging Datasets
+### Medical Imaging Datasets
 
 - **Medical Segmentation Decathlon**
 	- Type: Multimodal imaging (e.g., brain, liver, prostate MRI, lung CT).
@@ -217,7 +217,7 @@ For your projects, you will need access to reliable and well-documented datasets
 	- Description: A large archive of cancer-related medical images, including radiology and pathology scans, organized by disease and imaging modality. Data is freely available for download and is often paired with clinical and genomic data.
 	- Link: [TCIA](https://www.cancerimagingarchive.net/)
 
-#### Clinical and Health Records Datasets
+### Clinical and Health Records Datasets
 
 - **MIMIC-III (Medical Information Mart for Intensive Care)**
 	- Type: ICU clinical data (structured and unstructured).
@@ -239,7 +239,7 @@ For your projects, you will need access to reliable and well-documented datasets
 	- Description: Provides demographic, dietary, and health-related data for the U.S. population, useful for epidemiological and public health research.
 	- Link: [NHANES](https://www.cdc.gov/nchs/nhanes/)
 
-#### Molecular and Drug Discovery Datasets
+### Molecular and Drug Discovery Datasets
 
 - **Therapeutics Data Commons (TDC)**
 	- Type: Protein, drug and chemical structures, drug outcomes, bioactivities profiles, chemical perturbation datasets, adverse effects.
@@ -251,7 +251,7 @@ For your projects, you will need access to reliable and well-documented datasets
 	- Description: A dataset of 33 million protein phenotype instructions, representing a comprehensive resource for multiscale protein phenotypes.
 	- Link: [ProCyon](https://zitniklab.hms.harvard.edu/ProCyon)
 
-#### Genomics and Proteomics Datasets
+### Genomics and Proteomics Datasets
 
 - **TCGA (The Cancer Genome Atlas)**
 	- Type: Genomics, transcriptomics, and clinical data.
@@ -273,7 +273,7 @@ For your projects, you will need access to reliable and well-documented datasets
 	- Description: 1,720+ single-cell datasets across 970+ cell types and spanning 100+ million unique cells.
 	- Link: [CZI CellxGene](https://cellxgene.cziscience.com/)
 
-#### Multimodal Medical Data and Knowledge Graphs
+### Multimodal Medical Data and Knowledge Graphs
 
 - **Unified Clinical Vocabulary Embeddings**
 	- Type: Clinical vocabulary embeddings generated using graph transformer neural networks that provide a new representation of clinical knowledge unified across seven medical vocabularies. 
@@ -310,6 +310,46 @@ For your projects, you will need access to reliable and well-documented datasets
 	- Description: A project aimed at making MRI datasets of the brain freely available to the scientific community.
 	- Link: [OASIS](https://www.oasis-brains.org/)
 
-## Project Ideas
+## Project Ideas - Examples
 
-TBA
+We expect students to develop research projects aligned with their areas of interest, past experiences, and technical expertise. The goal is to empower you to explore topics that excite you while applying the skills you will learn in this course.
+
+We encourage you to attend office hours with the [course staff](../staff) to discuss your ideas, seek feedback, and receive additional guidance. Office hours are a valuable opportunity to refine your project scope and ensure your approach is feasible.
+
+To help you get started, we recommend exploring the [list of open medical datasets](#project-ideas---open-medical-datasets). You are welcome to design your project using one or more datasets from this list, which provides a variety of resources suited for medical AI research.
+
+Additionally, we provide a selection of project ideas to spark inspiration. **Please note that this is a non-exhaustive list. Although we list the initial point of contact below, you are welcome to discuss your project idea with any member of the [course staff](../staff).**
+
+
+- **Time series representation learning for forecasting and patient outcomes**: Explore time series models to forecast clinical events and classify patient outcomes based on longitudinal data. (Contact: [Marinka Zitnik](../staff))  
+
+- **LLM-based agents for medical and biological data analysis**: Develop large language model-powered agents to analyze and interpret complex medical and biological datasets. (Contact: [Marinka Zitnik](../staff))  
+
+- **Benchmarking LLMs for medical and scientific tasks**: Evaluate the performance of large language models across medical and scientific use cases, identifying strengths and limitations. (Contact: [Marinka Zitnik](../staff))  
+
+- **Integrating EHRs with LLMs for precision medicine**: Combine electronic health records with large language models for personalized healthcare prediction. (Contact: [Marinka Zitnik](../staff))  
+
+- **Geometric deep learning for molecular design and optimization**: Apply geometric deep learning methods to design and optimize molecular structures for drug design. (Contact: [Marinka Zitnik](../staff))  
+
+- **Molecular search engines**: Design molecular search engines for efficient retrieval of molecular information across large datasets. (Contact: [Marinka Zitnik](../staff)) 
+
+
+- **Benchmarking foundation models for perturbation prediction**: Evaluate genomic foundation models for predicting outcomes of molecular and genetic perturbations using bulk and single-cell transcriptomics datasets.  (Contact: [Yepeng Huang](../staff))
+
+- **Multimodal integration for drug response prediction**: Develop deep learning pipelines to integrate multimodal molecular data for drug response prediction and drug repurposing.  (Contact: [Yepeng Huang](../staff))
+
+- **Knowledge graphs for perturbation modeling**: Integrate biomedical knowledge graphs with perturbation response prediction methods.  (Contact: [Yepeng Huang](../staff))
+
+- **Systematic evaluation of drug targets using transcriptomics and dependency datasets**: Use AI to match genetic perturbations with compound-induced phenotypes to study on-target and off-target effects of drugs.  (Contact: [Yepeng Huang](../staff))
+
+
+- **Protein design with EVO and ESM3**: Use generative models like EVO and ESM3 to design novel protein sequences tailored to specific applications, followed by machine learning-based validation, including property prediction and interaction validation with docking models.  (Contact: [Yasha Ektefaie](../staff))
+
+- **Improving protein language models**: Investigate the role of sequence similarity and variation in improving PLM performance, evaluate thresholds for optimal improvement, and model systematic approaches to quantify these factors for downstream tasks.  (Contact: [Yasha Ektefaie](../staff))
+
+- **Investigating the “hardness” of biological problems**: Develop a framework to classify and evaluate the computational "hardness" of biological problems, validate classifications with computational evidence, and challenge anthropocentric notions of problem difficulty.  (Contact: [Yasha Ektefaie](../staff))
+
+
+- **haplotype variant effect prediction with genomic language models**: Explore whether genomic language model predictions for haplotypes align with ClinVar pathogenicity classifications by aggregating predictions, systematically comparing with ClinVar, and analyzing discrepancies to uncover clinically relevant patterns.  (Contact: [Courtney A Shearer](../staff))
+
+- **Protein language model mutability as a predictor for clinical variant effects**: Investigate whether mutability profiles from protein language models correlate with ClinVar mutation impacts by mapping position-specific mutability scores to clinical variants and analyzing statistical relationships, potentially contributing to ProteinGym benchmarks.  (Contact: [Courtney A Shearer](../staff))

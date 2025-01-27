@@ -151,19 +151,41 @@ This hands-on experience will serve as a foundational toolset for your future re
 ### Datasets
 {:.no_toc}
 
-TBA
+* ClinVar: A database of genomic variations and their associations with diseases.
+* gnomAD: Population-wide genomic variant data with allele frequency annotations.
+* UniProt: A comprehensive database of protein sequences and functional annotations.
 
 ### Tasks
 {:.no_toc}
 
-TBA
+1. Introduction of [AlphaMissense](https://www.science.org/doi/10.1126/science.adg7492)
+   - Overview of AlphaMissense and its novel transformer-based approach for pathogenicity prediction.  
+   - Discuss the strengths of AlphaMissense in capturing proteome-wide context for missense variant prediction.  
+   - Analyze specific case studies where AlphaMissense has advanced our understanding of pathogenic variants.  
+
+2. Practical Applications of Missense Variant Effect Prediction
+   - Use AlphaMissense to classify missense variants (e.g., benign vs. likely pathogenic) across datasets.  
+   - Validate predictions by comparing with known annotations (e.g., ClinVar or gnomAD).  
+   - Explore how predictions can inform clinical decision-making and functional studies.  
+
+3. Transformers in Genomics
+   - Broader discussion on the use of transformer architectures in genomics beyond AlphaMissense.  
+   - Build a simple transformer-based model for sequence classification using genomic or proteomic data.  
+   - Explore variant effect prediction tasks using custom transformer models.  
+
+4. Advanced Applications and Fine-tuning (Stretch Task)  
+   - Fine-tune AlphaMissense or another pre-trained transformer model with specific datasets (e.g., domain-specific mutations or rare disease variants).  
+   - Evaluate the generalizability of these models across unseen data and rare variant types.  
+   - Discuss transfer learning and zero-shot predictions in genomics.  
 
 ### Skills Developed
 {:.no_toc}
 
-TBA
+* Understanding the challenges for proteome-wide variant effect prediction.
+* Hands-on experience with AlphaMissense for missense variant classification and analysis.
+* Broader knowledge of transformer models applied to genomics.
 
-## Tutorial 5: TBA
+## Tutorial 5: Biomolecular Structure Modeling with AlphaFold3, Boltz-1, and Chai-1 Foundation Models
 
 ### Speaker
 {:.no_toc}
@@ -173,19 +195,26 @@ TBA
 ### Datasets
 {:.no_toc}
 
-TBA
+* Structural data from the Protein Data Bank (PDB), including proteins, ligands, RNA, and DNA, to serve as inputs for the models.
 
 ### Tasks
 {:.no_toc}
 
-TBA
+1. Setting Up and Running Foundation Models
+	* Learn how to install and run AlphaFold3, Boltz-1, and Chai-1.
+	* Set up and configure input data for each model.
+	* Run the models using Google Colab for practical, hands-on experience.
+	* Visualize the outputs in PyMOL to analyze the predicted structures.
+	* Compare the model outputs to reference structures in the literature to quickly benchmark model performance.
+2. Understanding Model Performance with [SPECTRA](https://github.com/mims-harvard/SPECTRA)
+	* Download and interpret precomputed spectral performance data for Boltz-1.
+	* Calculate the cross-split overlap between an example input and Boltz-1's training data.
+	* Plot the overlap on the spectral performance curve to predict Boltz-1's performance, and validate predictions by running the model.
+3. Fine-Tuning for Specialized Applications by Improving Boltz-1's performance on a specific dataset:
+	* Fine-tune the model using an antibody dataset.
+	* Assess the improvement in predictions post-fine-tuning.
 
-### Skills Developed
-{:.no_toc}
-
-TBA
-
-## Tutorial 6: TBA
+## Tutorial 6: Protein Language Models for Clinical Variant Effect Prediction
 
 ### Speaker
 {:.no_toc}
@@ -195,19 +224,30 @@ TBA
 ### Datasets
 {:.no_toc}
 
-TBA
+* MSA.
+* Variant effect prediction (VEP) scores from multiple models.
+* ClinVar: A database of genomic variations and their associations with diseases.
+* gnomAD: Population-wide genomic variant data with allele frequency annotations.
+* Deep Mutational Scan (DMS) datasets.
 
 ### Tasks
 {:.no_toc}
 
-TBA
+* Download and visualize pLM representations.
+* Correlate pLM predictions with DMS data.
+* Correlate pLM predictions with Clinvar data.
+* Download various pLM VEP and determine differences.
+* Analyze how different pLM VEP tools are used for different genetics questions based on training data.
 
 ### Skills Developed
 {:.no_toc}
 
-TBA
+* Protein sequence analysis.
+* Clinical variant interpretation.
+* Model selection for different genomic scenarios.
+* Performance evaluation methods.
 
-## Tutorial 7: TBA
+## Tutorial 7: Modeling Single-Cell Perturbations with Foundation Models
 
 ### Speaker
 {:.no_toc}
@@ -217,14 +257,26 @@ TBA
 ### Datasets
 {:.no_toc}
 
-TBA
+* Single-cell genetic perturbation datasets, scPerturb (in particular, Normal et al. (2019), Replogle et al. (2022)).
+* Single-cell drug perturbation datasets, Sci-plex 3.
+
+### Models
+{:.no_toc}
+
+* Foundation models: scGPT, scBERT, scFoundation.
 
 ### Tasks
 {:.no_toc}
 
-TBA
-
-### Skills Developed
-{:.no_toc}
-
-TBA
+* Setting up and running the model
+	* Set up environment.
+	* Download models and their pretrained weights.
+	* Run inference of models to get cell embeddings.
+* Benchmarking the model
+	* Implement simple evaluation metrics.
+	* Finetune linear probes for each model with those cell embeddings.
+	* Compare performance with simple baselines.
+* Adapting scGPT for generalization to unseen perturbations
+	* Download a variant of scGPT designed for predicting new perturbations
+	* Run inference to obtain results.
+	* Compare performance with simple baselines.

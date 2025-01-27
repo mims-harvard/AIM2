@@ -2,7 +2,7 @@
 title: Week 12
 ---
 
-Regulation of AI algorithms and devices in healthcare, FDA oversight and liability concerns, Prospective clinical trials for AI systems and AI-augmented devices
+Regulation of AI algorithms and devices in healthcare, FDA oversight and liability concerns, Prospective clinical trials for AI systems and AI-augmented devices. Lecture by [Prof. Sara Gerke](https://law.illinois.edu/faculty-research/faculty-profiles/sara-gerke/)
 
 April 22
 : **Lecture**{: .label .label-purple }[Ethical and Legal Considerations](lectures/week14)

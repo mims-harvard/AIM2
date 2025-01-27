@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), GenAI Fundamentals (training, optimization and RLHF), LLMs and Multimodal LLMs, Grounding and RAG, Healthcare applications of generative AI, Synthetic data generation, Data privacy concerns
+Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), GenAI Fundamentals (training, optimization and RLHF), LLMs and Multimodal LLMs, Grounding and RAG, Healthcare applications of generative AI, Synthetic data generation, Data privacy concerns. Lecture by [Dr. Carlos Morato](https://www.linkedin.com/in/carlosmorato/) 
 
 Feb 11
 : **Lecture**{: .label .label-purple }[Generative AI](lectures/week03)

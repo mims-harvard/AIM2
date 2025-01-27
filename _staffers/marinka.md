@@ -4,5 +4,5 @@ role: Faculty Instructor
 email: marinka@hms.harvard.edu
 website: https://zitniklab.hms.harvard.edu
 photo: marinka.png
-office-hours: Tue, 5pm - 6pm, Countway 309
+office-hours: Mon, 12pm - 1pm, Countway 309
 ---
