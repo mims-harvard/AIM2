@@ -28,16 +28,16 @@ schedule:
       start: 12:00 PM
       end: 1:00 PM
       location: Countway 309
+    - name: OH Shearer
+      start: 4:00 PM
+      end: 5:00 PM
+      location: Countway 423/424
   - name: Tuesday
     events:
     - name: Lecture
       start: 2:00 PM
       end: 4:00 PM
       location: TMEC 128/TMEC227
-    - name: OH Shearer
-      start: 4:00 PM
-      end: 5:00 PM
-      location: Countway 423/424
   - name: Wednesday
   - name: Thursday
     events:
@@ -46,8 +46,8 @@ schedule:
         end: 2:00 PM
         location: Countway 423/424
       - name: OH Huang
-        start: 3:00 PM
-        end: 4:00 PM
+        start: 2:00 PM
+        end: 3:00 PM
         location: Countway 423/424
   - name: Friday
 ---

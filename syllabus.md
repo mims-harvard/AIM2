@@ -60,7 +60,7 @@ Your final grade in this course will be based on a combination of semester-long 
 | [Midterm Project Presentation](../course_project)                                   | 10%        | A presentation summarizing your progress, baseline results, and challenges. Assessed for clarity, engagement, and preparedness for feedback. Presentation file submitted through Canvas.             
 | [Final Project Report](../course_project)                                           | 50%        | A comprehensive, [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. Assessed for depth, accuracy, and insights.                                                                                                                                                                        |
 | [Final Project Presentation](../course_project)                                     | 13%        | A conference-style presentation summarizing your project’s outcomes, strengths, and limitations. Evaluated on clarity, organization, and professionalism. Presentation file submitted through Canvas.
-| [Focused Tutorials](../focused_tutorials)                                            | 5%        | Participation in hands-on tutorials, demonstrating engagement with coding and model application exercises.                                               
+| [Focused Tutorials and Lectures](../focused_tutorials)                                            | 5%        | Participation in hands-on tutorials and lectures, demonstrating engagement with coding and model application exercises.                                               
 | [Weekly Reading Assessments](../syllabus/#weekly-reading-assessments)                                     | 12%         | Completion of weekly assessments following assigned readings, ensuring ongoing engagement and comprehension. 1 point per quiz; there is no quiz for Lecture 1.                                             
 
 ## Weekly Reading Assessments  
@@ -76,7 +76,7 @@ These assessments are designed to help you consolidate your learning and ensure 
 ## Attendance
 
 - Students must attend all classes unless they have explicit permission from the course instructor. An unexcused absence can affect the participation grade. The course will be run in a in-person format.
-- Students are highly encouraged to attend focused tutorials. We will offer a number of tutorials throughout the semester and expect that the student will attend at least five of them in-person. 
+- Students are highly encouraged to attend focused tutorials. We will offer a number of tutorials throughout the semester and expect that the student will attend at least some of them in-person. 
 - To see when lectures and office hours are scheduled, check the [Weekly Schedule](../schedule).
 - To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
 
