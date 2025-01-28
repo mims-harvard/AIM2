@@ -2,11 +2,11 @@
 title: Week 1
 ---
 
-Course overview, Introduction to NLP, NLP in a clinical setting, Medical terminology challenges, Concept extraction from clinical notes, Note summarization, Clinical trial matching
+Course overview, Introduction to NLP, NLP in clinical settings, Medical terminology challenges, Concept extraction from EHRs, Clinical trial matching
 
 Jan 28
 : **Lecture**{: .label .label-purple }[NLP I](lectures/week01)
-  : [Slides](#), [Reading List](lectures/week01)
+  : [Slides](assets/zitnik-AIM2-L1.pdf), [Reading List](lectures/week01)
 
 Jan 29
 : **Quiz**{: .label .label-green }[Week 2 pre-class quiz](#) (due Feb 4)
