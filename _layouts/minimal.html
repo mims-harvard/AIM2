@@ -4,6 +4,15 @@ layout: table_wrappers
 
 <!DOCTYPE html>
 
+<!-- In _layouts/minimal.html -->
+<body>
+  {{ content }}
+
+  <p style="color: red; font-weight: bold;">
+    If you can see this text, minimal.html is being used.
+  </p>
+</body>
+
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <body>
