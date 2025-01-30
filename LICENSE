@@ -1,14 +1,23 @@
+Course Website content license (for all content added since project was forked from
+https://github.com/kevinlin1/just-the-class):
+=================================================================================================
+Copyright Marinka Zitnik and Grey Kuling (c) 2024, CC BY-NC 4.0
+
 This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit
 https://creativecommons.org/licenses/by-nc/4.0/
 
-Copyright (c) 2025 Marinka Zitnik and Grey Kuling
+Original template (https://github.com/kevinlin1/just-the-class license:
+==================================================
+MIT License
+
+Copyright (c) 2019 Kevin Lin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, and/or sublicense, and to
-permit persons to whom the Software is furnished to do so, subject to the
-following conditions:
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
