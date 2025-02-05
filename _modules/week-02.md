@@ -6,7 +6,7 @@ Embeddings and their role in NLP, Transformers and BERT, Hugging Face library fo
 
 Feb 4
 : **Lecture**{: .label .label-purple }[NLP II: Embeddings & Transformers](/AIM2/lectures/week02)
-  : [Slides](#), [Reading List](/AIM2/lectures/week02)
+  : [Slides](/AIM2/assets/morato-AIM2-L2.pdf), [Reading List](/AIM2/lectures/week02)
 
 Feb 5
 : **Quiz**{: .label .label-green }[Week 3 pre-class quiz](#) (due Feb 11)
