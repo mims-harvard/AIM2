@@ -8,10 +8,6 @@ Feb 11
 : **Lecture**{: .label .label-purple }[Generative AI](/AIM2/lectures/week03)
   : [Slides](#), [Reading List](/AIM2/lectures/week03)
 
-Feb 11
-: **Course Project**{: .label .label-yellow }[Project Proposal Due for Peer Review](#)
-  : Canvas
-
 Feb 12
 : **Quiz**{: .label .label-green }[Week 4 pre-class quiz](#) (due Feb 18)
   : Canvas

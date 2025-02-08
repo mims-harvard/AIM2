@@ -8,10 +8,6 @@ Mar 11
 : **Lecture**{: .label .label-purple }[Trustworthy AI](/AIM2/lectures/week07)
   : [Slides](#), [Reading List](/AIM2/lectures/week07)
 
-Mar 11
-: **Course Project**{: .label .label-yellow }[Mid-Term Student Presentations](#)
-  : Canvas
-
 Mar 12
 : **Quiz**{: .label .label-green }[Week 8 pre-class quiz](#) (due Mar 25)
   : Canvas

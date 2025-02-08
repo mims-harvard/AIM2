@@ -22,23 +22,23 @@ The term project is an exciting opportunity for you to work in small groups and 
 - **BMIF 203:** Work in groups of 1-2 students. For exceptions, contact the Course Instructor.  
 - **BMI 702:** Work in groups of 2-3 students. For exceptions, contact the Course Instructor.  
 
-## Project Proposal and Peer Review Process (10% of the Total Grade, Weeks 3-4)
+## Project Proposal and Peer Review Process (10% of the Total Grade, Weeks 4-5)
 
-### Week 3 (5% of the Total Grade)
+### Week 4 (5% of the Total Grade)
 {:.no_toc}
 
-By the end of Week 3, your group will submit a 2-page project proposal that outlines your chosen research topic, any relevant background, and its potential to impact healthcare using AI. Don’t worry if you’re still working out some details—that’s what this stage is for! Your proposal should present a clear research question or problem, along with your planned approach and any initial thoughts on how AI can be applied to address it.
+By the end of Week 4, your group will submit a 2-page project proposal that outlines your chosen research topic, any relevant background, and its potential to impact healthcare using AI. Don’t worry if you’re still working out some details—that’s what this stage is for! Your proposal should present a clear research question or problem, along with your planned approach and any initial thoughts on how AI can be applied to address it.
 
 Once the proposals are submitted, they will be anonymized and distributed among your peers for review. Each student will be responsible for reviewing two anonymized proposals. We’ll model this review process after the criteria used for journal article reviews, so you’ll be asked to provide thoughtful, constructive feedback that encourages improvement and deeper exploration. You may suggest additional questions for the group to consider or point them to relevant resources and references to guide their project development.
 
 The feedback process is a crucial part of learning how to think critically about research, both your own and others. Your reviews should focus on supporting your classmates in refining their ideas in a respectful and thoughtful way. The aim here is to create a positive, collaborative environment where we can all learn from one another.
 
-### Week 4 (5% of the Total Grade)
+### Week 5 (5% of the Total Grade)
 {:.no_toc}
 
-After all reviews are collected, we will anonymize and consolidate the feedback before returning it to your group. You’ll then have the chance to decide how you want to address the feedback in your final proposal submission, due at the end of Week 4. You’re free to implement the suggestions from your peers or proceed with your original plan, but either way, this process is meant to help you think more deeply about your project’s direction.
+After all reviews are collected, we will anonymize and consolidate the feedback before returning it to your group. You’ll then have the chance to decide how you want to address the feedback in your final proposal submission, due at the end of Week 5. You’re free to implement the suggestions from your peers or proceed with your original plan, but either way, this process is meant to help you think more deeply about your project’s direction.
 
-## Mid-Term Project Presentations (10% of the Total Grade, Week 7)
+## Mid-Term Project Presentations (10% of the Total Grade, Week 8)
 
 Midway through the semester, your group will give a midterm project presentation to showcase your progress. This is your chance to share your initial findings, challenges, and next steps, while receiving valuable feedback from your peers and instructors. Presentations will be informal and aimed at helping you progress with your project—so don’t worry if you’re not fully finished yet! We’ll use this session to troubleshoot any difficulties you’re encountering and provide pointers to help guide you through the second half of the project.
 
@@ -58,7 +58,7 @@ Remember, this project is about learning and growth, so don’t be afraid to exp
 
 ## Project Milestones
 
-### 1. Project Proposal (Due Week 3, with Edits in Week 4)
+### 1. Project Proposal (Due Week 4, with Edits in Week 5)
 
 Your project proposal is an essential first step in outlining your research plan and preparing for the term project. It should include:
 * Hypothesis or Research Question: Clearly define the research question or hypothesis your project will investigate.
@@ -71,7 +71,7 @@ Your project proposal is an essential first step in outlining your research plan
 
 This proposal will set the foundation for your project and will be reviewed by your peers for feedback.
 
-### 2. Midterm Presentation (Due Week 7)
+### 2. Midterm Presentation (Due Week 8)
 
 The midterm presentation is a checkpoint to assess progress and receive feedback. Focus on communicating your problem clearly and presenting your current work. The presentation should include:
 * Problem Statement and Background: Reiterate the problem you're addressing and its significance in healthcare. Provide a quick summary of your background research.
@@ -97,7 +97,7 @@ Your final presentation should be equivalent to a conference presentation. It sh
 
 ## What to Submit 
 
-### Proposal Submission Guidelines (Due Week 3)
+### Proposal Submission Guidelines (Due Week 4)
 
 This is your opportunity to present a clear and concise research plan while adhering to professional standards. Here are the formatting details:
 

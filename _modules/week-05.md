@@ -8,6 +8,10 @@ Feb 25
 : **Lecture**{: .label .label-purple }[Medical Imaging I](/AIM2/lectures/week05)
   : [Slides](#), [Reading List](/AIM2/lectures/week05)
 
+Feb 25
+: **Course Project**{: .label .label-yellow }[Project Proposal Due](#)
+  : Canvas
+
 Feb 26
 : **Quiz**{: .label .label-green }[Week 6 pre-class quiz](#) (due March 4)
   : Canvas

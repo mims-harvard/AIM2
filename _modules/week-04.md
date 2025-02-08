@@ -9,7 +9,7 @@ Feb 18
   : [Slides](#), [Reading List](/AIM2/lectures/week04)
 
 Feb 18
-: **Course Project**{: .label .label-yellow }[Project Proposal Due](#)
+: **Course Project**{: .label .label-yellow }[Project Proposal Due for Peer Review](#)
   : Canvas
 
 Feb 19
