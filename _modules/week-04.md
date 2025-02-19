@@ -6,10 +6,10 @@ Designing LLM-driven agents to answer complex clinical queries with evidence-bac
 
 Feb 18
 : **Lecture**{: .label .label-purple }[Agentic AI](/AIM2/lectures/week04)
-  : [Slides](#), [Reading List](/AIM2/lectures/week04)
+  : [Slides](/AIM2/assets/zitnik-AIM2-L4.pdf), [Reading List](/AIM2/lectures/week04)
 
 Feb 18
-: **Course Project**{: .label .label-yellow }[Project Proposal Due](#)
+: **Course Project**{: .label .label-yellow }[Project Proposal Due for Peer Review](#)
   : Canvas
 
 Feb 19

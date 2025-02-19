@@ -6,11 +6,7 @@ Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), GenAI F
 
 Feb 11
 : **Lecture**{: .label .label-purple }[Generative AI](/AIM2/lectures/week03)
-  : [Slides](#), [Reading List](/AIM2/lectures/week03)
-
-Feb 11
-: **Course Project**{: .label .label-yellow }[Project Proposal Due for Peer Review](#)
-  : Canvas
+  : [Slides](/AIM2/assets/morato-AIM2-L3.pdf), [Reading List](/AIM2/lectures/week03)
 
 Feb 12
 : **Quiz**{: .label .label-green }[Week 4 pre-class quiz](#) (due Feb 18)
