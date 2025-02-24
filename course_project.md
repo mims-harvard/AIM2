@@ -36,7 +36,11 @@ The feedback process is a crucial part of learning how to think critically about
 ### Week 5 (5% of the Total Grade)
 {:.no_toc}
 
-After all reviews are collected, we will anonymize and consolidate the feedback before returning it to your group. You’ll then have the chance to decide how you want to address the feedback in your final proposal submission, due at the end of Week 5. You’re free to implement the suggestions from your peers or proceed with your original plan, but either way, this process is meant to help you think more deeply about your project’s direction.
+After all reviews are collected, we will anonymize and consolidate the 
+feedback before returning it to your group. You’ll then have the chance to 
+decide how you want to address the feedback in your final proposal 
+submission, due during Week 5. You’re free to implement the suggestions from 
+your peers or proceed with your original plan, but either way, this process is meant to help you think more deeply about your project’s direction.
 
 ## Mid-Term Project Presentations (10% of the Total Grade, Week 8)
 
