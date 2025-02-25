@@ -6,7 +6,7 @@ Understand the various types of medical imaging (radiology, oncology, pathology,
 
 Feb 25
 : **Lecture**{: .label .label-purple }[Medical Imaging I](/AIM2/lectures/week05)
-  : [Slides](#), [Reading List](/AIM2/lectures/week05)
+  : [Slides](/AIM2/assets/kuling-AIM2-L5.pdf), [Reading List](/AIM2/lectures/week05)
 
 Feb 25
 : **Course Project**{: .label .label-yellow }[Project Proposal Due](#)
