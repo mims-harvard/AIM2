@@ -10,7 +10,7 @@ by [Dr. Kun-Hsing Yu](https://yulab.hms.harvard.edu/)
 
 Mar 4
 : **Lecture**{: .label .label-purple }[Medical Imaging II](/AIM2/lectures/week06)
-  : [Slides](#), [Reading List](/AIM2/lectures/week06)
+  : [Slides](/AIM2/assets/yu-AIM2-L6.pdf), [Reading List](/AIM2/lectures/week06)
 
 Mar 5
 : **Quiz**{: .label .label-green }[Week 7 pre-class quiz](#) (due Mar 11)
