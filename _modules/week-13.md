@@ -8,6 +8,6 @@ Apr 29
 : **Lecture**{: .label .label-purple }[Time Series & Sensors](/AIM2/lectures/week13)
   : [Slides](#), [Reading List](/AIM2/lectures/week13)
 
-Apr 29
+Apr 30
 : **Course Project**{: .label .label-yellow }[Final Student Presentations](#)
   : Canvas
