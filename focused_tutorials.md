@@ -165,7 +165,7 @@ This hands-on experience will serve as a foundational toolset for your future re
 
 2. Practical Applications of Missense Variant Effect Prediction
    - Use AlphaMissense to classify missense variants (e.g., benign vs. likely pathogenic) across datasets.  
-   - Validate predictions by comparing with known annotations (e.g., ClinVar or gnomAD).  
+   - Validate predictions by comparing with known annotations (e.g., ClinVar).  
    - Explore how predictions can inform clinical decision-making and functional studies.  
 
 3. Transformers in Genomics
