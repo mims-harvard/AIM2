@@ -48,7 +48,7 @@ Midway through the semester, your group will give a midterm project presentation
 
 ## Final Project Presentations and Report (63% of the Total Grade, Week 13)
 
-In the final weeks of the course, you’ll present your completed project in a 8-minute presentation, followed by a 2-minute Q&A session. This is your chance to showcase the research and insights you’ve developed throughout the semester.
+In the final weeks of the course, you’ll present your completed project in a 10-minute presentation, followed by a 5-minute Q&A session. This is your chance to showcase the research and insights you’ve developed throughout the semester.
 
 Additionally, you’ll submit a written [NeurIPS-style report](https://neurips.cc/Conferences/2024/CallForPapers) detailing your research question, methods, results, and conclusions. We’re setting high standards for this report because we believe in your potential to rise to the challenge. This is a wonderful dress rehearsal for the moment when you’ll need to submit your own research in the future. The report should follow the structure of a formal scientific article, including an abstract, introduction, methodology, results, discussion, and conclusion. There’s no page limit, but we encourage you to be thorough and concise in your exploration and articulation of your findings.
 
@@ -96,7 +96,7 @@ The final report should be written in the style of a [NeurIPS conference paper](
 * Discussion: Analyze the implications of your results, including limitations and potential improvements.
 * Conclusion: Summarize the key findings and suggest next steps for future research.
 
-Your final presentation should be equivalent to a conference presentation. It should include clear visuals, be engaging, and succinctly cover your entire project from start to finish. You’ll have 8 minutes to present, followed by 2 minutes for questions.
+Your final presentation should be equivalent to a conference presentation. It should include clear visuals, be engaging, and succinctly cover your entire project from start to finish. You’ll have 10 minutes to present, followed by 5 minutes for questions.
 
 
 ## What to Submit 
