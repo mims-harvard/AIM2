@@ -6,7 +6,7 @@ Regulation of AI algorithms and devices in healthcare, FDA oversight and liabili
 
 April 22
 : **Lecture**{: .label .label-purple }[Ethical and Legal Considerations](/AIM2/lectures/week14)
-  : [Slides](#), [Reading List](/AIM2/lectures/week12)
+  : [Slides](/AIM2/assets/gerke-AIM2-L12.pdf), [Reading List](/AIM2/lectures/week12)
 
 Apr 23
 : **Quiz**{: .label .label-green }[Week 13 pre-class quiz](#) (due Apr 29)
