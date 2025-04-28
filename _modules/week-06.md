@@ -6,7 +6,7 @@ Advanced applications of AI in medical imaging, particularly AI foundation
 models. The development and validation of medical imaging interpretation 
 models. Best practices for evaluating AI models in medical imaging, with an 
 emphasis on robustness and performance across diverse populations. Lecture 
-by [Dr. Kun-Hsing Yu](https://yulab.hms.harvard.edu/)  
+by [Prof. Kun-Hsing Yu](https://yulab.hms.harvard.edu/)  
 
 Mar 4
 : **Lecture**{: .label .label-purple }[Medical Imaging II](/AIM2/lectures/week06)
